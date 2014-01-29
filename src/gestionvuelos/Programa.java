@@ -16,13 +16,13 @@ public class Programa{
     private static boolean TABULADO = false;
 
     /* Nombre del archivo que contiene los vuelos */
-    private static String VUELOS="VUELOS.TXT";
+    private static String VUELOS="ficheros/VUELOS.TXT";
     /* Nombre del archivo que contiene los aeropuertos */
-    private static String AEROPUERTOS="AEROPUERTOS.TXT";
+    private static String AEROPUERTOS="ficheros/AEROPUERTOS.TXT";
     /* Nombre del archivo que contiene las companias */
-    private static String COMPANIAS="COMPANIAS.TXT";
+    private static String COMPANIAS="ficheros/COMPANIAS.TXT";
     /* Nombre del archivo en el que se generara el informe */
-    private static String INFORME="INFORME.txt";
+    private static String INFORME="ficheros/INFORME.TXT";
 
     public static String getVuelos(){
     	return VUELOS;

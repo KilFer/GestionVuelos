@@ -1,0 +1,1184 @@
+Entre el 1/1/1990 y el 1/1/1995 han operado 25 compañía(s).
+Listadas en orden de aprovechamiento total de sus aeropuertos:
+===========================================
+TAP AIR  (TP) -54.58% de utilidad en 50 aeropuertos. 5037 pasajeros de 9228 posibles.
+ - Charlotte, EUA  (CLT): 92.86% de utilidad en 1 vuelos. 52 pasajeros de 56 posibles
+ - Rome, Italia  (FCO): 88.18% de utilidad en 2 vuelos. 97 pasajeros de 110 posibles
+ - Houston, EUA  (IAH): 87.74% de utilidad en 4 vuelos. 451 pasajeros de 514 posibles
+ - Denver (DEN): 87.50% de utilidad en 1 vuelos. 14 pasajeros de 16 posibles
+ - Miami, EUA  (MIA): 87.31% de utilidad en 3 vuelos. 117 pasajeros de 134 posibles
+ - Seattle  (SEA): 87.27% de utilidad en 1 vuelos. 96 pasajeros de 110 posibles
+ - Hong Kong, China  (HKG): 85.64% de utilidad en 2 vuelos. 173 pasajeros de 202 posibles
+ - Chicago (ORD): 82.93% de utilidad en 1 vuelos. 68 pasajeros de 82 posibles
+ - Shenzhen, China (SZX): 77.59% de utilidad en 2 vuelos. 90 pasajeros de 116 posibles
+ - Moscú, Rusia  (DME): 76.89% de utilidad en 3 vuelos. 163 pasajeros de 212 posibles
+ - Londres, Inglaterra  (LGW): 72.58% de utilidad en 1 vuelos. 45 pasajeros de 62 posibles
+ - Orlando, EUA   (MCO): 69.53% de utilidad en 2 vuelos. 178 pasajeros de 256 posibles
+ - Shanghái, China   (PVG): 68.80% de utilidad en 2 vuelos. 161 pasajeros de 234 posibles
+ - Chengdu, China (CTU): 68.33% de utilidad en 2 vuelos. 82 pasajeros de 120 posibles
+ - Nueva York (JFK): 68.01% de utilidad en 4 vuelos. 253 pasajeros de 372 posibles
+ - Paris  (CDG): 67.05% de utilidad en 1 vuelos. 59 pasajeros de 88 posibles
+ - Atlanta  (ATL): 66.39% de utilidad en 4 vuelos. 158 pasajeros de 238 posibles
+ - Newark (EWR): 63.84% de utilidad en 2 vuelos. 143 pasajeros de 224 posibles
+ - Mumbai, India BOM  (BOM): 62.50% de utilidad en 3 vuelos. 65 pasajeros de 104 posibles
+ - Beijing (PEK): 61.39% de utilidad en 1 vuelos. 97 pasajeros de 158 posibles
+ - Londres   (LHR): 59.86% de utilidad en 3 vuelos. 170 pasajeros de 284 posibles
+ - Detroit (DTW): 59.63% de utilidad en 4 vuelos. 223 pasajeros de 374 posibles
+ - Estambul, Turquía  (IST): 59.28% de utilidad en 3 vuelos. 262 pasajeros de 442 posibles
+ - Madrid, España (MAD): 58.60% de utilidad en 8 vuelos. 409 pasajeros de 698 posibles
+ - Paris, Francia  (ORY): 55.97% de utilidad en 4 vuelos. 150 pasajeros de 268 posibles
+ - Dallas  (DFW): 51.97% de utilidad en 1 vuelos. 79 pasajeros de 152 posibles
+ - Minneapolis/ ST Paul (MSP): 51.82% de utilidad en 1 vuelos. 57 pasajeros de 110 posibles
+ - Nueva Delhi, India  (DEL): 51.56% de utilidad en 1 vuelos. 33 pasajeros de 64 posibles
+ - Manila, Filipinas  (MNL): 50.00% de utilidad en 1 vuelos. 12 pasajeros de 24 posibles
+ - Múnich, Alemania  (MUC): 48.33% de utilidad en 1 vuelos. 29 pasajeros de 60 posibles
+ - Tokio (HND): 47.50% de utilidad en 2 vuelos. 133 pasajeros de 280 posibles
+ - Ámsterdam, Holanda  (AMS): 44.12% de utilidad en 1 vuelos. 30 pasajeros de 68 posibles
+ - Los Ángeles  (LAX): 40.65% de utilidad en 3 vuelos. 100 pasajeros de 246 posibles
+ - Tokio Narrita, Japón  (NRT): 40.59% de utilidad en 2 vuelos. 69 pasajeros de 170 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 37.12% de utilidad en 2 vuelos. 98 pasajeros de 264 posibles
+ - Bangkok, Tailandia   (BKK): 37.08% de utilidad en 4 vuelos. 89 pasajeros de 240 posibles
+ - Ciudad de México, México  (MEX): 37.01% de utilidad en 3 vuelos. 94 pasajeros de 254 posibles
+ - Toronto, Canadá  (YYZ): 35.53% de utilidad en 1 vuelos. 27 pasajeros de 76 posibles
+ - Sídney, Australia  (SYD): 35.48% de utilidad en 2 vuelos. 66 pasajeros de 186 posibles
+ - Singapur (SIN): 30.00% de utilidad en 1 vuelos. 15 pasajeros de 50 posibles
+ - Yakarta, Indonesia (CGK): 29.05% de utilidad en 2 vuelos. 86 pasajeros de 296 posibles
+ - Phoenix, EUA   (PHX): 26.81% de utilidad en 1 vuelos. 37 pasajeros de 138 posibles
+ - Sao Paulo, Brasil  (GRU): 25.33% de utilidad en 1 vuelos. 38 pasajeros de 150 posibles
+ - Boston (BOS): 20.89% de utilidad en 1 vuelos. 33 pasajeros de 158 posibles
+ - Frankfurt (FRA): 19.12% de utilidad en 1 vuelos. 13 pasajeros de 68 posibles
+ - Shanghái, China SHA  (SHA): 18.52% de utilidad en 3 vuelos. 50 pasajeros de 270 posibles
+ - Melbourne, Australia (MEL): 17.95% de utilidad en 1 vuelos. 14 pasajeros de 78 posibles
+ - San Francisco (SFO): 17.71% de utilidad en 1 vuelos. 17 pasajeros de 96 posibles
+ - Philadelphia, EUA   (PHL): 16.42% de utilidad en 1 vuelos. 22 pasajeros de 134 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 16.39% de utilidad en 1 vuelos. 20 pasajeros de 122 posibles
+ -=-=-=- 
+IBERIA (IB) -55.20% de utilidad en 47 aeropuertos. 5771 pasajeros de 10454 posibles.
+ - Shanghái, China   (PVG): 96.05% de utilidad en 1 vuelos. 73 pasajeros de 76 posibles
+ - Chicago (ORD): 93.75% de utilidad en 1 vuelos. 15 pasajeros de 16 posibles
+ - Houston, EUA  (IAH): 93.33% de utilidad en 1 vuelos. 112 pasajeros de 120 posibles
+ - Toronto, Canadá  (YYZ): 89.33% de utilidad en 4 vuelos. 268 pasajeros de 300 posibles
+ - Beijing (PEK): 87.79% de utilidad en 2 vuelos. 230 pasajeros de 262 posibles
+ - Moscú, Rusia  (DME): 86.44% de utilidad en 2 vuelos. 102 pasajeros de 118 posibles
+ - Bangkok, Tailandia   (BKK): 82.76% de utilidad en 1 vuelos. 48 pasajeros de 58 posibles
+ - Kuala Lumpur, Malasia   (KUL): 81.14% de utilidad en 5 vuelos. 271 pasajeros de 334 posibles
+ - Atlanta  (ATL): 80.00% de utilidad en 1 vuelos. 32 pasajeros de 40 posibles
+ - Melbourne, Australia (MEL): 75.45% de utilidad en 3 vuelos. 166 pasajeros de 220 posibles
+ - Rome, Italia  (FCO): 71.98% de utilidad en 5 vuelos. 370 pasajeros de 514 posibles
+ - Yakarta, Indonesia (CGK): 67.36% de utilidad en 5 vuelos. 419 pasajeros de 622 posibles
+ - Nueva Delhi, India  (DEL): 65.63% de utilidad en 5 vuelos. 336 pasajeros de 512 posibles
+ - Philadelphia, EUA   (PHL): 65.63% de utilidad en 1 vuelos. 63 pasajeros de 96 posibles
+ - Nueva York (JFK): 63.33% de utilidad en 2 vuelos. 38 pasajeros de 60 posibles
+ - Singapur (SIN): 63.12% de utilidad en 2 vuelos. 178 pasajeros de 282 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 62.24% de utilidad en 4 vuelos. 178 pasajeros de 286 posibles
+ - Chengdu, China (CTU): 60.10% de utilidad en 2 vuelos. 119 pasajeros de 198 posibles
+ - Tokio (HND): 60.00% de utilidad en 1 vuelos. 36 pasajeros de 60 posibles
+ - Estambul, Turquía  (IST): 59.12% de utilidad en 3 vuelos. 188 pasajeros de 318 posibles
+ - Madrid, España (MAD): 58.78% de utilidad en 2 vuelos. 87 pasajeros de 148 posibles
+ - San Francisco (SFO): 58.18% de utilidad en 2 vuelos. 128 pasajeros de 220 posibles
+ - Mumbai, India BOM  (BOM): 57.45% de utilidad en 2 vuelos. 162 pasajeros de 282 posibles
+ - Denver (DEN): 57.04% de utilidad en 3 vuelos. 81 pasajeros de 142 posibles
+ - Shanghái, China SHA  (SHA): 54.67% de utilidad en 7 vuelos. 269 pasajeros de 492 posibles
+ - Sao Paulo, Brasil  (GRU): 51.01% de utilidad en 3 vuelos. 152 pasajeros de 298 posibles
+ - Minneapolis/ ST Paul (MSP): 47.52% de utilidad en 4 vuelos. 192 pasajeros de 404 posibles
+ - Boston (BOS): 47.49% de utilidad en 5 vuelos. 170 pasajeros de 358 posibles
+ - Paris, Francia  (ORY): 46.61% de utilidad en 2 vuelos. 55 pasajeros de 118 posibles
+ - Phoenix, EUA   (PHX): 46.15% de utilidad en 1 vuelos. 12 pasajeros de 26 posibles
+ - Ciudad de México, México  (MEX): 43.31% de utilidad en 3 vuelos. 110 pasajeros de 254 posibles
+ - Hong Kong, China  (HKG): 42.67% de utilidad en 6 vuelos. 256 pasajeros de 600 posibles
+ - Seattle  (SEA): 42.55% de utilidad en 2 vuelos. 80 pasajeros de 188 posibles
+ - Frankfurt (FRA): 42.31% de utilidad en 1 vuelos. 22 pasajeros de 52 posibles
+ - Newark (EWR): 40.91% de utilidad en 1 vuelos. 45 pasajeros de 110 posibles
+ - Barcelona, España (BCN): 40.38% de utilidad en 2 vuelos. 126 pasajeros de 312 posibles
+ - Tokio Narrita, Japón  (NRT): 38.89% de utilidad en 1 vuelos. 14 pasajeros de 36 posibles
+ - Orlando, EUA   (MCO): 35.00% de utilidad en 1 vuelos. 21 pasajeros de 60 posibles
+ - Las Vegas (LAS): 34.72% de utilidad en 1 vuelos. 25 pasajeros de 72 posibles
+ - Manila, Filipinas  (MNL): 33.84% de utilidad en 2 vuelos. 67 pasajeros de 198 posibles
+ - Dallas  (DFW): 31.96% de utilidad en 4 vuelos. 124 pasajeros de 388 posibles
+ - Ámsterdam, Holanda  (AMS): 31.52% de utilidad en 2 vuelos. 87 pasajeros de 276 posibles
+ - Detroit (DTW): 29.67% de utilidad en 3 vuelos. 73 pasajeros de 246 posibles
+ - Sídney, Australia  (SYD): 28.62% de utilidad en 3 vuelos. 87 pasajeros de 304 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 25.86% de utilidad en 1 vuelos. 30 pasajeros de 116 posibles
+ - Charlotte, EUA  (CLT): 23.73% de utilidad en 1 vuelos. 28 pasajeros de 118 posibles
+ - Paris  (CDG): 18.06% de utilidad en 1 vuelos. 26 pasajeros de 144 posibles
+ -=-=-=- 
+AIREUROPA (UX) -54.10% de utilidad en 43 aeropuertos. 3931 pasajeros de 7266 posibles.
+ - Boston (BOS): 100.00% de utilidad en 1 vuelos. 18 pasajeros de 18 posibles
+ - Yakarta, Indonesia (CGK): 96.30% de utilidad en 1 vuelos. 104 pasajeros de 108 posibles
+ - Bangkok, Tailandia   (BKK): 89.42% de utilidad en 2 vuelos. 93 pasajeros de 104 posibles
+ - Paris, Francia  (ORY): 89.39% de utilidad en 1 vuelos. 59 pasajeros de 66 posibles
+ - Frankfurt (FRA): 86.49% de utilidad en 1 vuelos. 64 pasajeros de 74 posibles
+ - Paris  (CDG): 85.93% de utilidad en 4 vuelos. 287 pasajeros de 334 posibles
+ - Taipéi, Taiwan (TPE): 80.30% de utilidad en 2 vuelos. 159 pasajeros de 198 posibles
+ - Londres, Inglaterra  (LGW): 78.41% de utilidad en 4 vuelos. 276 pasajeros de 352 posibles
+ - Mumbai, India BOM  (BOM): 76.60% de utilidad en 3 vuelos. 239 pasajeros de 312 posibles
+ - Nueva Delhi, India  (DEL): 75.76% de utilidad en 1 vuelos. 50 pasajeros de 66 posibles
+ - Shanghái, China   (PVG): 74.07% de utilidad en 2 vuelos. 40 pasajeros de 54 posibles
+ - Toronto, Canadá  (YYZ): 70.00% de utilidad en 1 vuelos. 91 pasajeros de 130 posibles
+ - Singapur (SIN): 68.85% de utilidad en 2 vuelos. 168 pasajeros de 244 posibles
+ - Los Ángeles  (LAX): 67.86% de utilidad en 1 vuelos. 19 pasajeros de 28 posibles
+ - Beijing (PEK): 67.65% de utilidad en 1 vuelos. 46 pasajeros de 68 posibles
+ - Minneapolis/ ST Paul (MSP): 64.29% de utilidad en 1 vuelos. 18 pasajeros de 28 posibles
+ - Ciudad de México, México  (MEX): 62.68% de utilidad en 1 vuelos. 89 pasajeros de 142 posibles
+ - Denver (DEN): 61.36% de utilidad en 1 vuelos. 27 pasajeros de 44 posibles
+ - Kuala Lumpur, Malasia   (KUL): 58.33% de utilidad en 1 vuelos. 14 pasajeros de 24 posibles
+ - Houston, EUA  (IAH): 57.86% de utilidad en 3 vuelos. 184 pasajeros de 318 posibles
+ - Shanghái, China SHA  (SHA): 57.68% de utilidad en 8 vuelos. 383 pasajeros de 664 posibles
+ - Shenzhen, China (SZX): 52.06% de utilidad en 2 vuelos. 101 pasajeros de 194 posibles
+ - Charlotte, EUA  (CLT): 50.00% de utilidad en 3 vuelos. 129 pasajeros de 258 posibles
+ - Tokio (HND): 49.60% de utilidad en 3 vuelos. 124 pasajeros de 250 posibles
+ - Estambul, Turquía  (IST): 49.16% de utilidad en 3 vuelos. 117 pasajeros de 238 posibles
+ - Las Vegas (LAS): 48.00% de utilidad en 1 vuelos. 48 pasajeros de 100 posibles
+ - Sídney, Australia  (SYD): 47.78% de utilidad en 2 vuelos. 86 pasajeros de 180 posibles
+ - San Francisco (SFO): 46.43% de utilidad en 1 vuelos. 13 pasajeros de 28 posibles
+ - Chengdu, China (CTU): 45.42% de utilidad en 6 vuelos. 278 pasajeros de 612 posibles
+ - Múnich, Alemania  (MUC): 43.62% de utilidad en 1 vuelos. 41 pasajeros de 94 posibles
+ - Londres   (LHR): 40.00% de utilidad en 2 vuelos. 32 pasajeros de 80 posibles
+ - Seattle  (SEA): 38.57% de utilidad en 2 vuelos. 54 pasajeros de 140 posibles
+ - Miami, EUA  (MIA): 36.11% de utilidad en 1 vuelos. 13 pasajeros de 36 posibles
+ - Barcelona, España (BCN): 34.29% de utilidad en 1 vuelos. 24 pasajeros de 70 posibles
+ - Sao Paulo, Brasil  (GRU): 33.90% de utilidad en 2 vuelos. 40 pasajeros de 118 posibles
+ - Manila, Filipinas  (MNL): 33.54% de utilidad en 4 vuelos. 55 pasajeros de 164 posibles
+ - Moscú, Rusia  (DME): 32.00% de utilidad en 1 vuelos. 32 pasajeros de 100 posibles
+ - Phoenix, EUA   (PHX): 31.06% de utilidad en 1 vuelos. 41 pasajeros de 132 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 27.99% de utilidad en 4 vuelos. 117 pasajeros de 418 posibles
+ - Detroit (DTW): 27.41% de utilidad en 3 vuelos. 74 pasajeros de 270 posibles
+ - Atlanta  (ATL): 22.27% de utilidad en 2 vuelos. 57 pasajeros de 256 posibles
+ - Dallas  (DFW): 18.75% de utilidad en 1 vuelos. 15 pasajeros de 80 posibles
+ - Chicago (ORD): 16.67% de utilidad en 1 vuelos. 12 pasajeros de 72 posibles
+ -=-=-=- 
+AMERICAN AIRLINES (AA) -56.57% de utilidad en 47 aeropuertos. 5422 pasajeros de 9584 posibles.
+ - Miami, EUA  (MIA): 92.31% de utilidad en 1 vuelos. 48 pasajeros de 52 posibles
+ - Houston, EUA  (IAH): 89.66% de utilidad en 2 vuelos. 104 pasajeros de 116 posibles
+ - Mumbai, India BOM  (BOM): 86.41% de utilidad en 2 vuelos. 159 pasajeros de 184 posibles
+ - San Francisco (SFO): 85.34% de utilidad en 1 vuelos. 99 pasajeros de 116 posibles
+ - Nueva York (JFK): 85.00% de utilidad en 1 vuelos. 17 pasajeros de 20 posibles
+ - Orlando, EUA   (MCO): 84.62% de utilidad en 1 vuelos. 22 pasajeros de 26 posibles
+ - Sídney, Australia  (SYD): 84.38% de utilidad en 1 vuelos. 54 pasajeros de 64 posibles
+ - Phoenix, EUA   (PHX): 82.79% de utilidad en 4 vuelos. 255 pasajeros de 308 posibles
+ - Sao Paulo, Brasil  (GRU): 81.17% de utilidad en 1 vuelos. 125 pasajeros de 154 posibles
+ - Londres   (LHR): 79.23% de utilidad en 1 vuelos. 103 pasajeros de 130 posibles
+ - Chicago (ORD): 78.65% de utilidad en 4 vuelos. 302 pasajeros de 384 posibles
+ - Ámsterdam, Holanda  (AMS): 78.47% de utilidad en 1 vuelos. 113 pasajeros de 144 posibles
+ - Ciudad de México, México  (MEX): 78.26% de utilidad en 1 vuelos. 72 pasajeros de 92 posibles
+ - Melbourne, Australia (MEL): 75.81% de utilidad en 1 vuelos. 47 pasajeros de 62 posibles
+ - Manila, Filipinas  (MNL): 75.68% de utilidad en 3 vuelos. 224 pasajeros de 296 posibles
+ - Estambul, Turquía  (IST): 73.77% de utilidad en 1 vuelos. 90 pasajeros de 122 posibles
+ - Paris, Francia  (ORY): 71.67% de utilidad en 1 vuelos. 43 pasajeros de 60 posibles
+ - Shanghái, China SHA  (SHA): 69.49% de utilidad en 4 vuelos. 164 pasajeros de 236 posibles
+ - Philadelphia, EUA   (PHL): 66.96% de utilidad en 3 vuelos. 225 pasajeros de 336 posibles
+ - Chengdu, China (CTU): 64.50% de utilidad en 3 vuelos. 169 pasajeros de 262 posibles
+ - Minneapolis/ ST Paul (MSP): 64.29% de utilidad en 3 vuelos. 144 pasajeros de 224 posibles
+ - Tokio Narrita, Japón  (NRT): 63.64% de utilidad en 2 vuelos. 84 pasajeros de 132 posibles
+ - Múnich, Alemania  (MUC): 63.16% de utilidad en 2 vuelos. 192 pasajeros de 304 posibles
+ - Kuala Lumpur, Malasia   (KUL): 62.79% de utilidad en 2 vuelos. 162 pasajeros de 258 posibles
+ - Tokio (HND): 62.72% de utilidad en 2 vuelos. 143 pasajeros de 228 posibles
+ - Dallas  (DFW): 61.90% de utilidad en 2 vuelos. 104 pasajeros de 168 posibles
+ - Madrid, España (MAD): 60.91% de utilidad en 1 vuelos. 67 pasajeros de 110 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 60.69% de utilidad en 3 vuelos. 193 pasajeros de 318 posibles
+ - Hong Kong, China  (HKG): 60.64% de utilidad en 1 vuelos. 57 pasajeros de 94 posibles
+ - Seattle  (SEA): 55.00% de utilidad en 3 vuelos. 110 pasajeros de 200 posibles
+ - Frankfurt (FRA): 53.26% de utilidad en 2 vuelos. 49 pasajeros de 92 posibles
+ - Barcelona, España (BCN): 49.76% de utilidad en 4 vuelos. 211 pasajeros de 424 posibles
+ - Londres, Inglaterra  (LGW): 49.28% de utilidad en 1 vuelos. 68 pasajeros de 138 posibles
+ - Taipéi, Taiwan (TPE): 48.59% de utilidad en 4 vuelos. 207 pasajeros de 426 posibles
+ - Beijing (PEK): 45.75% de utilidad en 5 vuelos. 269 pasajeros de 588 posibles
+ - Shanghái, China   (PVG): 44.07% de utilidad en 2 vuelos. 119 pasajeros de 270 posibles
+ - Singapur (SIN): 41.94% de utilidad en 2 vuelos. 52 pasajeros de 124 posibles
+ - Boston (BOS): 41.10% de utilidad en 2 vuelos. 97 pasajeros de 236 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 36.11% de utilidad en 3 vuelos. 143 pasajeros de 396 posibles
+ - Yakarta, Indonesia (CGK): 35.71% de utilidad en 2 vuelos. 55 pasajeros de 154 posibles
+ - Denver (DEN): 34.15% de utilidad en 3 vuelos. 97 pasajeros de 284 posibles
+ - Rome, Italia  (FCO): 32.29% de utilidad en 4 vuelos. 124 pasajeros de 384 posibles
+ - Shenzhen, China (SZX): 32.06% de utilidad en 4 vuelos. 84 pasajeros de 262 posibles
+ - Newark (EWR): 30.77% de utilidad en 1 vuelos. 16 pasajeros de 52 posibles
+ - Atlanta  (ATL): 29.68% de utilidad en 3 vuelos. 111 pasajeros de 374 posibles
+ - Los Ángeles  (LAX): 18.18% de utilidad en 1 vuelos. 12 pasajeros de 66 posibles
+ - Bangkok, Tailandia   (BKK): 14.91% de utilidad en 1 vuelos. 17 pasajeros de 114 posibles
+ -=-=-=- 
+COPA (CM) -57.92% de utilidad en 47 aeropuertos. 5476 pasajeros de 9454 posibles.
+ - Las Vegas (LAS): 100.00% de utilidad en 1 vuelos. 72 pasajeros de 72 posibles
+ - Nueva Delhi, India  (DEL): 97.41% de utilidad en 1 vuelos. 113 pasajeros de 116 posibles
+ - Yakarta, Indonesia (CGK): 95.00% de utilidad en 2 vuelos. 95 pasajeros de 100 posibles
+ - San Francisco (SFO): 93.75% de utilidad en 1 vuelos. 30 pasajeros de 32 posibles
+ - Seattle  (SEA): 92.19% de utilidad en 3 vuelos. 177 pasajeros de 192 posibles
+ - Nueva York (JFK): 91.84% de utilidad en 1 vuelos. 90 pasajeros de 98 posibles
+ - Beijing (PEK): 91.57% de utilidad en 2 vuelos. 163 pasajeros de 178 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 90.63% de utilidad en 1 vuelos. 29 pasajeros de 32 posibles
+ - Shanghái, China   (PVG): 86.49% de utilidad en 1 vuelos. 128 pasajeros de 148 posibles
+ - Moscú, Rusia  (DME): 83.33% de utilidad en 1 vuelos. 15 pasajeros de 18 posibles
+ - Philadelphia, EUA   (PHL): 81.94% de utilidad en 2 vuelos. 118 pasajeros de 144 posibles
+ - Sao Paulo, Brasil  (GRU): 81.03% de utilidad en 2 vuelos. 94 pasajeros de 116 posibles
+ - Mumbai, India BOM  (BOM): 79.55% de utilidad en 1 vuelos. 70 pasajeros de 88 posibles
+ - Bangkok, Tailandia   (BKK): 78.28% de utilidad en 3 vuelos. 191 pasajeros de 244 posibles
+ - Chengdu, China (CTU): 72.18% de utilidad en 2 vuelos. 179 pasajeros de 248 posibles
+ - Melbourne, Australia (MEL): 71.39% de utilidad en 4 vuelos. 257 pasajeros de 360 posibles
+ - Los Ángeles  (LAX): 70.59% de utilidad en 2 vuelos. 120 pasajeros de 170 posibles
+ - Charlotte, EUA  (CLT): 69.57% de utilidad en 1 vuelos. 96 pasajeros de 138 posibles
+ - Estambul, Turquía  (IST): 67.81% de utilidad en 3 vuelos. 99 pasajeros de 146 posibles
+ - Barcelona, España (BCN): 64.35% de utilidad en 6 vuelos. 399 pasajeros de 620 posibles
+ - Houston, EUA  (IAH): 58.65% de utilidad en 3 vuelos. 122 pasajeros de 208 posibles
+ - Ciudad de México, México  (MEX): 57.88% de utilidad en 4 vuelos. 169 pasajeros de 292 posibles
+ - Singapur (SIN): 57.83% de utilidad en 2 vuelos. 96 pasajeros de 166 posibles
+ - Paris  (CDG): 56.51% de utilidad en 3 vuelos. 165 pasajeros de 292 posibles
+ - Taipéi, Taiwan (TPE): 56.36% de utilidad en 2 vuelos. 62 pasajeros de 110 posibles
+ - Newark (EWR): 55.59% de utilidad en 4 vuelos. 318 pasajeros de 572 posibles
+ - Detroit (DTW): 55.49% de utilidad en 2 vuelos. 101 pasajeros de 182 posibles
+ - Phoenix, EUA   (PHX): 54.56% de utilidad en 5 vuelos. 275 pasajeros de 504 posibles
+ - Londres, Inglaterra  (LGW): 54.47% de utilidad en 2 vuelos. 134 pasajeros de 246 posibles
+ - Boston (BOS): 54.35% de utilidad en 1 vuelos. 25 pasajeros de 46 posibles
+ - Hong Kong, China  (HKG): 52.45% de utilidad en 4 vuelos. 171 pasajeros de 326 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 50.40% de utilidad en 2 vuelos. 125 pasajeros de 248 posibles
+ - Chicago (ORD): 47.85% de utilidad en 5 vuelos. 200 pasajeros de 418 posibles
+ - Ámsterdam, Holanda  (AMS): 46.55% de utilidad en 3 vuelos. 189 pasajeros de 406 posibles
+ - Miami, EUA  (MIA): 46.55% de utilidad en 2 vuelos. 54 pasajeros de 116 posibles
+ - Tokio (HND): 46.48% de utilidad en 2 vuelos. 66 pasajeros de 142 posibles
+ - Shanghái, China SHA  (SHA): 44.23% de utilidad en 2 vuelos. 69 pasajeros de 156 posibles
+ - Minneapolis/ ST Paul (MSP): 42.45% de utilidad en 2 vuelos. 90 pasajeros de 212 posibles
+ - Kuala Lumpur, Malasia   (KUL): 41.54% de utilidad en 3 vuelos. 113 pasajeros de 272 posibles
+ - Manila, Filipinas  (MNL): 38.24% de utilidad en 1 vuelos. 52 pasajeros de 136 posibles
+ - Paris, Francia  (ORY): 36.82% de utilidad en 2 vuelos. 81 pasajeros de 220 posibles
+ - Frankfurt (FRA): 36.21% de utilidad en 2 vuelos. 42 pasajeros de 116 posibles
+ - Shenzhen, China (SZX): 35.71% de utilidad en 2 vuelos. 65 pasajeros de 182 posibles
+ - Rome, Italia  (FCO): 33.82% de utilidad en 2 vuelos. 69 pasajeros de 204 posibles
+ - Londres   (LHR): 23.65% de utilidad en 2 vuelos. 35 pasajeros de 148 posibles
+ - Madrid, España (MAD): 23.33% de utilidad en 2 vuelos. 42 pasajeros de 180 posibles
+ - Orlando, EUA   (MCO): 11.70% de utilidad en 1 vuelos. 11 pasajeros de 94 posibles
+ -=-=-=- 
+LACSA (LR) -55.46% de utilidad en 48 aeropuertos. 5140 pasajeros de 9268 posibles.
+ - Orlando, EUA   (MCO): 96.94% de utilidad en 1 vuelos. 95 pasajeros de 98 posibles
+ - Chicago (ORD): 89.29% de utilidad en 1 vuelos. 50 pasajeros de 56 posibles
+ - Moscú, Rusia  (DME): 87.80% de utilidad en 2 vuelos. 144 pasajeros de 164 posibles
+ - Sídney, Australia  (SYD): 87.69% de utilidad en 4 vuelos. 349 pasajeros de 398 posibles
+ - Miami, EUA  (MIA): 87.50% de utilidad en 1 vuelos. 14 pasajeros de 16 posibles
+ - Newark (EWR): 82.84% de utilidad en 2 vuelos. 111 pasajeros de 134 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 82.00% de utilidad en 1 vuelos. 82 pasajeros de 100 posibles
+ - Charlotte, EUA  (CLT): 78.79% de utilidad en 2 vuelos. 52 pasajeros de 66 posibles
+ - Los Ángeles  (LAX): 74.53% de utilidad en 4 vuelos. 79 pasajeros de 106 posibles
+ - Paris, Francia  (ORY): 72.87% de utilidad en 3 vuelos. 137 pasajeros de 188 posibles
+ - Las Vegas (LAS): 72.16% de utilidad en 2 vuelos. 127 pasajeros de 176 posibles
+ - Boston (BOS): 70.97% de utilidad en 1 vuelos. 88 pasajeros de 124 posibles
+ - Madrid, España (MAD): 69.10% de utilidad en 2 vuelos. 123 pasajeros de 178 posibles
+ - Denver (DEN): 68.52% de utilidad en 2 vuelos. 37 pasajeros de 54 posibles
+ - Hong Kong, China  (HKG): 68.45% de utilidad en 5 vuelos. 423 pasajeros de 618 posibles
+ - Nueva York (JFK): 67.86% de utilidad en 1 vuelos. 57 pasajeros de 84 posibles
+ - Taipéi, Taiwan (TPE): 67.86% de utilidad en 1 vuelos. 76 pasajeros de 112 posibles
+ - Dallas  (DFW): 67.25% de utilidad en 3 vuelos. 230 pasajeros de 342 posibles
+ - Tokio Narrita, Japón  (NRT): 67.05% de utilidad en 2 vuelos. 118 pasajeros de 176 posibles
+ - Ámsterdam, Holanda  (AMS): 65.96% de utilidad en 1 vuelos. 62 pasajeros de 94 posibles
+ - Ciudad de México, México  (MEX): 62.16% de utilidad en 1 vuelos. 46 pasajeros de 74 posibles
+ - Paris  (CDG): 62.13% de utilidad en 5 vuelos. 292 pasajeros de 470 posibles
+ - Shanghái, China   (PVG): 60.71% de utilidad en 1 vuelos. 68 pasajeros de 112 posibles
+ - Shanghái, China SHA  (SHA): 58.57% de utilidad en 4 vuelos. 205 pasajeros de 350 posibles
+ - Atlanta  (ATL): 58.06% de utilidad en 2 vuelos. 36 pasajeros de 62 posibles
+ - Londres   (LHR): 57.37% de utilidad en 3 vuelos. 109 pasajeros de 190 posibles
+ - Yakarta, Indonesia (CGK): 57.22% de utilidad en 3 vuelos. 214 pasajeros de 374 posibles
+ - Beijing (PEK): 54.35% de utilidad en 3 vuelos. 125 pasajeros de 230 posibles
+ - Minneapolis/ ST Paul (MSP): 53.72% de utilidad en 2 vuelos. 130 pasajeros de 242 posibles
+ - Rome, Italia  (FCO): 46.27% de utilidad en 4 vuelos. 149 pasajeros de 322 posibles
+ - Singapur (SIN): 45.65% de utilidad en 1 vuelos. 21 pasajeros de 46 posibles
+ - Houston, EUA  (IAH): 44.75% de utilidad en 5 vuelos. 230 pasajeros de 514 posibles
+ - Shenzhen, China (SZX): 44.22% de utilidad en 3 vuelos. 153 pasajeros de 346 posibles
+ - Sao Paulo, Brasil  (GRU): 42.59% de utilidad en 1 vuelos. 23 pasajeros de 54 posibles
+ - Bangkok, Tailandia   (BKK): 41.63% de utilidad en 4 vuelos. 174 pasajeros de 418 posibles
+ - Múnich, Alemania  (MUC): 38.67% de utilidad en 1 vuelos. 58 pasajeros de 150 posibles
+ - Melbourne, Australia (MEL): 38.11% de utilidad en 3 vuelos. 93 pasajeros de 244 posibles
+ - San Francisco (SFO): 38.04% de utilidad en 2 vuelos. 105 pasajeros de 276 posibles
+ - Tokio (HND): 36.36% de utilidad en 1 vuelos. 40 pasajeros de 110 posibles
+ - Frankfurt (FRA): 35.23% de utilidad en 1 vuelos. 31 pasajeros de 88 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 35.04% de utilidad en 3 vuelos. 82 pasajeros de 234 posibles
+ - Toronto, Canadá  (YYZ): 34.72% de utilidad en 1 vuelos. 25 pasajeros de 72 posibles
+ - Chengdu, China (CTU): 34.56% de utilidad en 1 vuelos. 47 pasajeros de 136 posibles
+ - Phoenix, EUA   (PHX): 33.12% de utilidad en 2 vuelos. 51 pasajeros de 154 posibles
+ - Estambul, Turquía  (IST): 32.57% de utilidad en 2 vuelos. 71 pasajeros de 218 posibles
+ - Londres, Inglaterra  (LGW): 24.58% de utilidad en 1 vuelos. 29 pasajeros de 118 posibles
+ - Detroit (DTW): 23.77% de utilidad en 2 vuelos. 58 pasajeros de 244 posibles
+ - Mumbai, India BOM  (BOM): 15.44% de utilidad en 1 vuelos. 21 pasajeros de 136 posibles
+ -=-=-=- 
+LLOYD AERO BOLIVIANO (LB) -54.00% de utilidad en 50 aeropuertos. 4910 pasajeros de 9092 posibles.
+ - Tokio (HND): 98.39% de utilidad en 1 vuelos. 61 pasajeros de 62 posibles
+ - Atlanta  (ATL): 96.00% de utilidad en 1 vuelos. 96 pasajeros de 100 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 93.33% de utilidad en 1 vuelos. 56 pasajeros de 60 posibles
+ - Melbourne, Australia (MEL): 92.31% de utilidad en 1 vuelos. 120 pasajeros de 130 posibles
+ - Detroit (DTW): 87.50% de utilidad en 1 vuelos. 21 pasajeros de 24 posibles
+ - Orlando, EUA   (MCO): 86.84% de utilidad en 1 vuelos. 66 pasajeros de 76 posibles
+ - Miami, EUA  (MIA): 84.38% de utilidad en 1 vuelos. 27 pasajeros de 32 posibles
+ - Charlotte, EUA  (CLT): 82.00% de utilidad en 1 vuelos. 41 pasajeros de 50 posibles
+ - Nueva York (JFK): 81.73% de utilidad en 1 vuelos. 85 pasajeros de 104 posibles
+ - Mumbai, India BOM  (BOM): 80.56% de utilidad en 1 vuelos. 29 pasajeros de 36 posibles
+ - Kuala Lumpur, Malasia   (KUL): 75.58% de utilidad en 2 vuelos. 65 pasajeros de 86 posibles
+ - Newark (EWR): 75.00% de utilidad en 2 vuelos. 90 pasajeros de 120 posibles
+ - Shanghái, China SHA  (SHA): 74.56% de utilidad en 4 vuelos. 337 pasajeros de 452 posibles
+ - Shenzhen, China (SZX): 73.71% de utilidad en 2 vuelos. 171 pasajeros de 232 posibles
+ - Frankfurt (FRA): 72.37% de utilidad en 2 vuelos. 55 pasajeros de 76 posibles
+ - Chengdu, China (CTU): 68.24% de utilidad en 2 vuelos. 116 pasajeros de 170 posibles
+ - Rome, Italia  (FCO): 67.81% de utilidad en 1 vuelos. 99 pasajeros de 146 posibles
+ - Tokio Narrita, Japón  (NRT): 66.67% de utilidad en 1 vuelos. 16 pasajeros de 24 posibles
+ - Beijing (PEK): 65.87% de utilidad en 3 vuelos. 137 pasajeros de 208 posibles
+ - Múnich, Alemania  (MUC): 63.26% de utilidad en 5 vuelos. 167 pasajeros de 264 posibles
+ - Houston, EUA  (IAH): 63.13% de utilidad en 1 vuelos. 101 pasajeros de 160 posibles
+ - Minneapolis/ ST Paul (MSP): 62.24% de utilidad en 6 vuelos. 300 pasajeros de 482 posibles
+ - Seattle  (SEA): 60.71% de utilidad en 1 vuelos. 17 pasajeros de 28 posibles
+ - Londres   (LHR): 60.29% de utilidad en 2 vuelos. 164 pasajeros de 272 posibles
+ - Moscú, Rusia  (DME): 60.24% de utilidad en 2 vuelos. 153 pasajeros de 254 posibles
+ - Manila, Filipinas  (MNL): 58.29% de utilidad en 5 vuelos. 211 pasajeros de 362 posibles
+ - Sao Paulo, Brasil  (GRU): 57.42% de utilidad en 5 vuelos. 240 pasajeros de 418 posibles
+ - Los Ángeles  (LAX): 54.17% de utilidad en 3 vuelos. 104 pasajeros de 192 posibles
+ - Paris  (CDG): 53.89% de utilidad en 3 vuelos. 97 pasajeros de 180 posibles
+ - Barcelona, España (BCN): 53.81% de utilidad en 2 vuelos. 127 pasajeros de 236 posibles
+ - Dallas  (DFW): 53.36% de utilidad en 2 vuelos. 143 pasajeros de 268 posibles
+ - Sídney, Australia  (SYD): 53.00% de utilidad en 1 vuelos. 53 pasajeros de 100 posibles
+ - Shanghái, China   (PVG): 52.05% de utilidad en 2 vuelos. 76 pasajeros de 146 posibles
+ - Paris, Francia  (ORY): 52.05% de utilidad en 3 vuelos. 152 pasajeros de 292 posibles
+ - Denver (DEN): 50.00% de utilidad en 2 vuelos. 84 pasajeros de 168 posibles
+ - Boston (BOS): 48.33% de utilidad en 1 vuelos. 58 pasajeros de 120 posibles
+ - Las Vegas (LAS): 47.32% de utilidad en 2 vuelos. 53 pasajeros de 112 posibles
+ - Londres, Inglaterra  (LGW): 43.18% de utilidad en 2 vuelos. 57 pasajeros de 132 posibles
+ - Bangkok, Tailandia   (BKK): 42.13% de utilidad en 2 vuelos. 91 pasajeros de 216 posibles
+ - Nueva Delhi, India  (DEL): 41.67% de utilidad en 2 vuelos. 60 pasajeros de 144 posibles
+ - Ámsterdam, Holanda  (AMS): 40.83% de utilidad en 3 vuelos. 89 pasajeros de 218 posibles
+ - Ciudad de México, México  (MEX): 40.48% de utilidad en 5 vuelos. 221 pasajeros de 546 posibles
+ - Phoenix, EUA   (PHX): 37.04% de utilidad en 1 vuelos. 40 pasajeros de 108 posibles
+ - Taipéi, Taiwan (TPE): 33.57% de utilidad en 2 vuelos. 94 pasajeros de 280 posibles
+ - Toronto, Canadá  (YYZ): 28.17% de utilidad en 1 vuelos. 40 pasajeros de 142 posibles
+ - Estambul, Turquía  (IST): 27.39% de utilidad en 2 vuelos. 63 pasajeros de 230 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 21.67% de utilidad en 1 vuelos. 13 pasajeros de 60 posibles
+ - San Francisco (SFO): 21.58% de utilidad en 3 vuelos. 82 pasajeros de 380 posibles
+ - Philadelphia, EUA   (PHL): 19.85% de utilidad en 1 vuelos. 27 pasajeros de 136 posibles
+ - Yakarta, Indonesia (CGK): 17.44% de utilidad en 2 vuelos. 45 pasajeros de 258 posibles
+ -=-=-=- 
+MEXICANA DE AVIACION (MX) -62.04% de utilidad en 46 aeropuertos. 5962 pasajeros de 9610 posibles.
+ - Toronto, Canadá  (YYZ): 100.00% de utilidad en 1 vuelos. 92 pasajeros de 92 posibles
+ - Chicago (ORD): 98.08% de utilidad en 1 vuelos. 51 pasajeros de 52 posibles
+ - Detroit (DTW): 94.44% de utilidad en 2 vuelos. 170 pasajeros de 180 posibles
+ - Ciudad de México, México  (MEX): 88.97% de utilidad en 2 vuelos. 121 pasajeros de 136 posibles
+ - Shenzhen, China (SZX): 88.65% de utilidad en 2 vuelos. 250 pasajeros de 282 posibles
+ - Nueva York (JFK): 87.04% de utilidad en 3 vuelos. 188 pasajeros de 216 posibles
+ - Houston, EUA  (IAH): 86.26% de utilidad en 3 vuelos. 157 pasajeros de 182 posibles
+ - Dallas  (DFW): 85.96% de utilidad en 2 vuelos. 153 pasajeros de 178 posibles
+ - Ámsterdam, Holanda  (AMS): 79.63% de utilidad en 1 vuelos. 43 pasajeros de 54 posibles
+ - Charlotte, EUA  (CLT): 78.66% de utilidad en 3 vuelos. 258 pasajeros de 328 posibles
+ - Las Vegas (LAS): 76.79% de utilidad en 3 vuelos. 301 pasajeros de 392 posibles
+ - Barcelona, España (BCN): 75.40% de utilidad en 5 vuelos. 374 pasajeros de 496 posibles
+ - Los Ángeles  (LAX): 75.00% de utilidad en 1 vuelos. 21 pasajeros de 28 posibles
+ - Orlando, EUA   (MCO): 75.00% de utilidad en 1 vuelos. 108 pasajeros de 144 posibles
+ - Paris  (CDG): 75.00% de utilidad en 1 vuelos. 30 pasajeros de 40 posibles
+ - Atlanta  (ATL): 72.22% de utilidad en 1 vuelos. 13 pasajeros de 18 posibles
+ - Beijing (PEK): 72.09% de utilidad en 4 vuelos. 297 pasajeros de 412 posibles
+ - Singapur (SIN): 69.06% de utilidad en 5 vuelos. 413 pasajeros de 598 posibles
+ - Melbourne, Australia (MEL): 68.21% de utilidad en 4 vuelos. 251 pasajeros de 368 posibles
+ - Manila, Filipinas  (MNL): 67.97% de utilidad en 3 vuelos. 174 pasajeros de 256 posibles
+ - Madrid, España (MAD): 65.18% de utilidad en 3 vuelos. 146 pasajeros de 224 posibles
+ - Frankfurt (FRA): 64.84% de utilidad en 1 vuelos. 83 pasajeros de 128 posibles
+ - Tokio (HND): 64.57% de utilidad en 2 vuelos. 164 pasajeros de 254 posibles
+ - Moscú, Rusia  (DME): 64.40% de utilidad en 5 vuelos. 322 pasajeros de 500 posibles
+ - Londres, Inglaterra  (LGW): 64.06% de utilidad en 1 vuelos. 41 pasajeros de 64 posibles
+ - Chengdu, China (CTU): 61.65% de utilidad en 2 vuelos. 127 pasajeros de 206 posibles
+ - Londres   (LHR): 60.00% de utilidad en 2 vuelos. 120 pasajeros de 200 posibles
+ - Hong Kong, China  (HKG): 60.00% de utilidad en 2 vuelos. 66 pasajeros de 110 posibles
+ - San Francisco (SFO): 59.13% de utilidad en 3 vuelos. 123 pasajeros de 208 posibles
+ - Nueva Delhi, India  (DEL): 57.65% de utilidad en 4 vuelos. 211 pasajeros de 366 posibles
+ - Minneapolis/ ST Paul (MSP): 55.15% de utilidad en 3 vuelos. 75 pasajeros de 136 posibles
+ - Rome, Italia  (FCO): 52.70% de utilidad en 1 vuelos. 78 pasajeros de 148 posibles
+ - Shanghái, China SHA  (SHA): 50.60% de utilidad en 3 vuelos. 169 pasajeros de 334 posibles
+ - Yakarta, Indonesia (CGK): 50.00% de utilidad en 1 vuelos. 19 pasajeros de 38 posibles
+ - Sídney, Australia  (SYD): 47.16% de utilidad en 2 vuelos. 83 pasajeros de 176 posibles
+ - Taipéi, Taiwan (TPE): 45.16% de utilidad en 2 vuelos. 112 pasajeros de 248 posibles
+ - Phoenix, EUA   (PHX): 41.46% de utilidad en 1 vuelos. 34 pasajeros de 82 posibles
+ - Tokio Narrita, Japón  (NRT): 40.71% de utilidad en 2 vuelos. 57 pasajeros de 140 posibles
+ - Denver (DEN): 37.74% de utilidad en 2 vuelos. 40 pasajeros de 106 posibles
+ - Philadelphia, EUA   (PHL): 35.71% de utilidad en 2 vuelos. 50 pasajeros de 140 posibles
+ - Kuala Lumpur, Malasia   (KUL): 35.09% de utilidad en 3 vuelos. 113 pasajeros de 322 posibles
+ - Sao Paulo, Brasil  (GRU): 33.56% de utilidad en 3 vuelos. 98 pasajeros de 292 posibles
+ - Miami, EUA  (MIA): 26.88% de utilidad en 1 vuelos. 43 pasajeros de 160 posibles
+ - Shanghái, China   (PVG): 25.44% de utilidad en 1 vuelos. 29 pasajeros de 114 posibles
+ - Seattle  (SEA): 21.02% de utilidad en 3 vuelos. 66 pasajeros de 314 posibles
+ - Newark (EWR): 18.92% de utilidad en 1 vuelos. 28 pasajeros de 148 posibles
+ -=-=-=- 
+CONTINENTAL (CO) -60.73% de utilidad en 43 aeropuertos. 4824 pasajeros de 7944 posibles.
+ - Dubái, Emiratos Árabes Unidos  (DXB): 100.00% de utilidad en 1 vuelos. 140 pasajeros de 140 posibles
+ - Las Vegas (LAS): 99.33% de utilidad en 1 vuelos. 149 pasajeros de 150 posibles
+ - Chicago (ORD): 97.22% de utilidad en 1 vuelos. 35 pasajeros de 36 posibles
+ - Frankfurt (FRA): 93.33% de utilidad en 2 vuelos. 140 pasajeros de 150 posibles
+ - Londres   (LHR): 90.91% de utilidad en 3 vuelos. 240 pasajeros de 264 posibles
+ - Chengdu, China (CTU): 89.17% de utilidad en 2 vuelos. 107 pasajeros de 120 posibles
+ - Houston, EUA  (IAH): 88.89% de utilidad en 1 vuelos. 16 pasajeros de 18 posibles
+ - Shenzhen, China (SZX): 86.75% de utilidad en 2 vuelos. 144 pasajeros de 166 posibles
+ - Seattle  (SEA): 84.19% de utilidad en 2 vuelos. 197 pasajeros de 234 posibles
+ - Phoenix, EUA   (PHX): 82.84% de utilidad en 2 vuelos. 169 pasajeros de 204 posibles
+ - Hong Kong, China  (HKG): 82.14% de utilidad en 2 vuelos. 138 pasajeros de 168 posibles
+ - Shanghái, China SHA  (SHA): 79.39% de utilidad en 2 vuelos. 181 pasajeros de 228 posibles
+ - Ámsterdam, Holanda  (AMS): 75.97% de utilidad en 1 vuelos. 117 pasajeros de 154 posibles
+ - Denver (DEN): 74.58% de utilidad en 3 vuelos. 179 pasajeros de 240 posibles
+ - Miami, EUA  (MIA): 73.77% de utilidad en 1 vuelos. 90 pasajeros de 122 posibles
+ - Shanghái, China   (PVG): 71.25% de utilidad en 2 vuelos. 57 pasajeros de 80 posibles
+ - Nueva York (JFK): 71.19% de utilidad en 2 vuelos. 84 pasajeros de 118 posibles
+ - Sídney, Australia  (SYD): 68.75% de utilidad en 2 vuelos. 66 pasajeros de 96 posibles
+ - Sao Paulo, Brasil  (GRU): 68.75% de utilidad en 1 vuelos. 33 pasajeros de 48 posibles
+ - Toronto, Canadá  (YYZ): 68.18% de utilidad en 1 vuelos. 15 pasajeros de 22 posibles
+ - Nueva Delhi, India  (DEL): 67.86% de utilidad en 1 vuelos. 19 pasajeros de 28 posibles
+ - Beijing (PEK): 67.70% de utilidad en 5 vuelos. 283 pasajeros de 418 posibles
+ - Charlotte, EUA  (CLT): 67.26% de utilidad en 2 vuelos. 113 pasajeros de 168 posibles
+ - Paris  (CDG): 66.92% de utilidad en 1 vuelos. 87 pasajeros de 130 posibles
+ - Madrid, España (MAD): 66.74% de utilidad en 5 vuelos. 315 pasajeros de 472 posibles
+ - Londres, Inglaterra  (LGW): 64.81% de utilidad en 1 vuelos. 35 pasajeros de 54 posibles
+ - Barcelona, España (BCN): 58.82% de utilidad en 2 vuelos. 80 pasajeros de 136 posibles
+ - Tokio (HND): 56.87% de utilidad en 3 vuelos. 240 pasajeros de 422 posibles
+ - Bangkok, Tailandia   (BKK): 54.93% de utilidad en 3 vuelos. 78 pasajeros de 142 posibles
+ - Estambul, Turquía  (IST): 52.78% de utilidad en 1 vuelos. 19 pasajeros de 36 posibles
+ - Boston (BOS): 51.31% de utilidad en 4 vuelos. 196 pasajeros de 382 posibles
+ - Melbourne, Australia (MEL): 50.00% de utilidad en 2 vuelos. 109 pasajeros de 218 posibles
+ - Los Ángeles  (LAX): 48.33% de utilidad en 2 vuelos. 87 pasajeros de 180 posibles
+ - Manila, Filipinas  (MNL): 46.21% de utilidad en 4 vuelos. 195 pasajeros de 422 posibles
+ - Paris, Francia  (ORY): 46.15% de utilidad en 3 vuelos. 156 pasajeros de 338 posibles
+ - Kuala Lumpur, Malasia   (KUL): 39.35% de utilidad en 5 vuelos. 133 pasajeros de 338 posibles
+ - Detroit (DTW): 38.11% de utilidad en 3 vuelos. 125 pasajeros de 328 posibles
+ - Atlanta  (ATL): 37.26% de utilidad en 2 vuelos. 79 pasajeros de 212 posibles
+ - Orlando, EUA   (MCO): 32.22% de utilidad en 1 vuelos. 29 pasajeros de 90 posibles
+ - Ciudad de México, México  (MEX): 31.46% de utilidad en 2 vuelos. 56 pasajeros de 178 posibles
+ - Múnich, Alemania  (MUC): 21.28% de utilidad en 2 vuelos. 40 pasajeros de 188 posibles
+ - Yakarta, Indonesia (CGK): 20.45% de utilidad en 2 vuelos. 36 pasajeros de 176 posibles
+ - Mumbai, India BOM  (BOM): 13.08% de utilidad en 1 vuelos. 17 pasajeros de 130 posibles
+ -=-=-=- 
+AIR FRANCE (AF) -57.55% de utilidad en 45 aeropuertos. 5403 pasajeros de 9388 posibles.
+ - Sao Paulo, Brasil  (GRU): 100.00% de utilidad en 1 vuelos. 88 pasajeros de 88 posibles
+ - Tokio Narrita, Japón  (NRT): 96.05% de utilidad en 1 vuelos. 73 pasajeros de 76 posibles
+ - Seattle  (SEA): 94.59% de utilidad en 1 vuelos. 70 pasajeros de 74 posibles
+ - Moscú, Rusia  (DME): 92.67% de utilidad en 1 vuelos. 139 pasajeros de 150 posibles
+ - Miami, EUA  (MIA): 91.67% de utilidad en 1 vuelos. 22 pasajeros de 24 posibles
+ - Londres, Inglaterra  (LGW): 88.06% de utilidad en 2 vuelos. 118 pasajeros de 134 posibles
+ - Bangkok, Tailandia   (BKK): 86.44% de utilidad en 2 vuelos. 102 pasajeros de 118 posibles
+ - Dallas  (DFW): 84.55% de utilidad en 1 vuelos. 93 pasajeros de 110 posibles
+ - Melbourne, Australia (MEL): 79.88% de utilidad en 2 vuelos. 131 pasajeros de 164 posibles
+ - Múnich, Alemania  (MUC): 78.57% de utilidad en 4 vuelos. 319 pasajeros de 406 posibles
+ - Madrid, España (MAD): 76.67% de utilidad en 1 vuelos. 23 pasajeros de 30 posibles
+ - Ámsterdam, Holanda  (AMS): 75.69% de utilidad en 2 vuelos. 109 pasajeros de 144 posibles
+ - Paris  (CDG): 75.64% de utilidad en 1 vuelos. 118 pasajeros de 156 posibles
+ - Chengdu, China (CTU): 75.40% de utilidad en 2 vuelos. 95 pasajeros de 126 posibles
+ - San Francisco (SFO): 73.91% de utilidad en 1 vuelos. 34 pasajeros de 46 posibles
+ - Yakarta, Indonesia (CGK): 72.13% de utilidad en 3 vuelos. 176 pasajeros de 244 posibles
+ - Ciudad de México, México  (MEX): 69.15% de utilidad en 4 vuelos. 195 pasajeros de 282 posibles
+ - Mumbai, India BOM  (BOM): 66.95% de utilidad en 2 vuelos. 79 pasajeros de 118 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 66.78% de utilidad en 4 vuelos. 195 pasajeros de 292 posibles
+ - Shanghái, China SHA  (SHA): 64.32% de utilidad en 4 vuelos. 256 pasajeros de 398 posibles
+ - Toronto, Canadá  (YYZ): 64.02% de utilidad en 2 vuelos. 105 pasajeros de 164 posibles
+ - Singapur (SIN): 62.96% de utilidad en 2 vuelos. 102 pasajeros de 162 posibles
+ - Sídney, Australia  (SYD): 62.50% de utilidad en 2 vuelos. 125 pasajeros de 200 posibles
+ - Newark (EWR): 58.49% de utilidad en 4 vuelos. 303 pasajeros de 518 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 57.98% de utilidad en 2 vuelos. 109 pasajeros de 188 posibles
+ - Taipéi, Taiwan (TPE): 56.71% de utilidad en 3 vuelos. 169 pasajeros de 298 posibles
+ - Detroit (DTW): 56.20% de utilidad en 7 vuelos. 263 pasajeros de 468 posibles
+ - Denver (DEN): 54.36% de utilidad en 5 vuelos. 287 pasajeros de 528 posibles
+ - Tokio (HND): 54.27% de utilidad en 3 vuelos. 127 pasajeros de 234 posibles
+ - Hong Kong, China  (HKG): 53.75% de utilidad en 2 vuelos. 43 pasajeros de 80 posibles
+ - Manila, Filipinas  (MNL): 49.46% de utilidad en 2 vuelos. 92 pasajeros de 186 posibles
+ - Shanghái, China   (PVG): 47.66% de utilidad en 1 vuelos. 61 pasajeros de 128 posibles
+ - Orlando, EUA   (MCO): 47.16% de utilidad en 5 vuelos. 282 pasajeros de 598 posibles
+ - Charlotte, EUA  (CLT): 46.86% de utilidad en 3 vuelos. 149 pasajeros de 318 posibles
+ - Barcelona, España (BCN): 42.44% de utilidad en 3 vuelos. 146 pasajeros de 344 posibles
+ - Boston (BOS): 41.46% de utilidad en 3 vuelos. 68 pasajeros de 164 posibles
+ - Frankfurt (FRA): 41.24% de utilidad en 3 vuelos. 146 pasajeros de 354 posibles
+ - Chicago (ORD): 39.35% de utilidad en 3 vuelos. 85 pasajeros de 216 posibles
+ - Nueva Delhi, India  (DEL): 37.14% de utilidad en 1 vuelos. 26 pasajeros de 70 posibles
+ - Atlanta  (ATL): 36.59% de utilidad en 1 vuelos. 30 pasajeros de 82 posibles
+ - Los Ángeles  (LAX): 36.25% de utilidad en 1 vuelos. 58 pasajeros de 160 posibles
+ - Rome, Italia  (FCO): 31.73% de utilidad en 1 vuelos. 33 pasajeros de 104 posibles
+ - Shenzhen, China (SZX): 30.37% de utilidad en 3 vuelos. 82 pasajeros de 270 posibles
+ - Estambul, Turquía  (IST): 25.88% de utilidad en 2 vuelos. 44 pasajeros de 170 posibles
+ - Minneapolis/ ST Paul (MSP): 16.18% de utilidad en 2 vuelos. 33 pasajeros de 204 posibles
+ -=-=-=- 
+TURKISH AIRLINES (TK) -55.26% de utilidad en 45 aeropuertos. 5688 pasajeros de 10294 posibles.
+ - Moscú, Rusia  (DME): 92.73% de utilidad en 1 vuelos. 102 pasajeros de 110 posibles
+ - Toronto, Canadá  (YYZ): 89.86% de utilidad en 1 vuelos. 124 pasajeros de 138 posibles
+ - Sao Paulo, Brasil  (GRU): 87.86% de utilidad en 2 vuelos. 123 pasajeros de 140 posibles
+ - Seattle  (SEA): 83.59% de utilidad en 1 vuelos. 107 pasajeros de 128 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 81.97% de utilidad en 1 vuelos. 100 pasajeros de 122 posibles
+ - Paris, Francia  (ORY): 76.40% de utilidad en 2 vuelos. 136 pasajeros de 178 posibles
+ - Rome, Italia  (FCO): 75.00% de utilidad en 3 vuelos. 240 pasajeros de 320 posibles
+ - Mumbai, India BOM  (BOM): 75.00% de utilidad en 1 vuelos. 75 pasajeros de 100 posibles
+ - Hong Kong, China  (HKG): 74.76% de utilidad en 4 vuelos. 308 pasajeros de 412 posibles
+ - Philadelphia, EUA   (PHL): 70.65% de utilidad en 1 vuelos. 65 pasajeros de 92 posibles
+ - Londres   (LHR): 70.54% de utilidad en 4 vuelos. 316 pasajeros de 448 posibles
+ - Tokio (HND): 70.51% de utilidad en 4 vuelos. 220 pasajeros de 312 posibles
+ - Estambul, Turquía  (IST): 67.71% de utilidad en 1 vuelos. 65 pasajeros de 96 posibles
+ - Charlotte, EUA  (CLT): 65.12% de utilidad en 5 vuelos. 336 pasajeros de 516 posibles
+ - Orlando, EUA   (MCO): 64.39% de utilidad en 5 vuelos. 358 pasajeros de 556 posibles
+ - Barcelona, España (BCN): 62.40% de utilidad en 4 vuelos. 156 pasajeros de 250 posibles
+ - Las Vegas (LAS): 61.08% de utilidad en 3 vuelos. 226 pasajeros de 370 posibles
+ - Shanghái, China SHA  (SHA): 58.09% de utilidad en 8 vuelos. 474 pasajeros de 816 posibles
+ - Chengdu, China (CTU): 57.32% de utilidad en 3 vuelos. 94 pasajeros de 164 posibles
+ - Shanghái, China   (PVG): 57.14% de utilidad en 1 vuelos. 48 pasajeros de 84 posibles
+ - Nueva Delhi, India  (DEL): 56.64% de utilidad en 4 vuelos. 145 pasajeros de 256 posibles
+ - Nueva York (JFK): 55.36% de utilidad en 2 vuelos. 93 pasajeros de 168 posibles
+ - Denver (DEN): 50.21% de utilidad en 4 vuelos. 240 pasajeros de 478 posibles
+ - Los Ángeles  (LAX): 50.00% de utilidad en 2 vuelos. 40 pasajeros de 80 posibles
+ - Londres, Inglaterra  (LGW): 50.00% de utilidad en 5 vuelos. 249 pasajeros de 498 posibles
+ - Melbourne, Australia (MEL): 48.99% de utilidad en 2 vuelos. 97 pasajeros de 198 posibles
+ - Madrid, España (MAD): 46.71% de utilidad en 1 vuelos. 71 pasajeros de 152 posibles
+ - Chicago (ORD): 45.95% de utilidad en 1 vuelos. 34 pasajeros de 74 posibles
+ - Miami, EUA  (MIA): 45.90% de utilidad en 2 vuelos. 56 pasajeros de 122 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 45.45% de utilidad en 1 vuelos. 20 pasajeros de 44 posibles
+ - Taipéi, Taiwan (TPE): 45.45% de utilidad en 1 vuelos. 20 pasajeros de 44 posibles
+ - Shenzhen, China (SZX): 44.87% de utilidad en 1 vuelos. 35 pasajeros de 78 posibles
+ - Houston, EUA  (IAH): 42.52% de utilidad en 2 vuelos. 91 pasajeros de 214 posibles
+ - Minneapolis/ ST Paul (MSP): 42.31% de utilidad en 1 vuelos. 66 pasajeros de 156 posibles
+ - Ciudad de México, México  (MEX): 42.19% de utilidad en 3 vuelos. 135 pasajeros de 320 posibles
+ - Sídney, Australia  (SYD): 40.34% de utilidad en 2 vuelos. 71 pasajeros de 176 posibles
+ - Frankfurt (FRA): 35.29% de utilidad en 3 vuelos. 108 pasajeros de 306 posibles
+ - Múnich, Alemania  (MUC): 35.04% de utilidad en 2 vuelos. 82 pasajeros de 234 posibles
+ - Beijing (PEK): 33.45% de utilidad en 3 vuelos. 97 pasajeros de 290 posibles
+ - Boston (BOS): 32.50% de utilidad en 2 vuelos. 78 pasajeros de 240 posibles
+ - Newark (EWR): 29.09% de utilidad en 2 vuelos. 64 pasajeros de 220 posibles
+ - Ámsterdam, Holanda  (AMS): 26.58% de utilidad en 2 vuelos. 42 pasajeros de 158 posibles
+ - San Francisco (SFO): 23.97% de utilidad en 1 vuelos. 35 pasajeros de 146 posibles
+ - Manila, Filipinas  (MNL): 19.44% de utilidad en 1 vuelos. 28 pasajeros de 144 posibles
+ - Atlanta  (ATL): 12.33% de utilidad en 1 vuelos. 18 pasajeros de 146 posibles
+ -=-=-=- 
+VARIG (RG) -55.33% de utilidad en 40 aeropuertos. 4027 pasajeros de 7278 posibles.
+ - Sídney, Australia  (SYD): 97.89% de utilidad en 1 vuelos. 139 pasajeros de 142 posibles
+ - Estambul, Turquía  (IST): 96.67% de utilidad en 1 vuelos. 87 pasajeros de 90 posibles
+ - Singapur (SIN): 93.94% de utilidad en 1 vuelos. 62 pasajeros de 66 posibles
+ - Tokio (HND): 89.29% de utilidad en 1 vuelos. 25 pasajeros de 28 posibles
+ - Bangkok, Tailandia   (BKK): 88.89% de utilidad en 2 vuelos. 112 pasajeros de 126 posibles
+ - Shanghái, China SHA  (SHA): 87.32% de utilidad en 1 vuelos. 124 pasajeros de 142 posibles
+ - Nueva Delhi, India  (DEL): 80.23% de utilidad en 4 vuelos. 276 pasajeros de 344 posibles
+ - Ciudad de México, México  (MEX): 79.44% de utilidad en 2 vuelos. 170 pasajeros de 214 posibles
+ - Chengdu, China (CTU): 73.67% de utilidad en 4 vuelos. 221 pasajeros de 300 posibles
+ - Orlando, EUA   (MCO): 73.40% de utilidad en 3 vuelos. 207 pasajeros de 282 posibles
+ - Boston (BOS): 72.22% de utilidad en 1 vuelos. 13 pasajeros de 18 posibles
+ - Newark (EWR): 71.68% de utilidad en 4 vuelos. 248 pasajeros de 346 posibles
+ - Múnich, Alemania  (MUC): 70.93% de utilidad en 1 vuelos. 61 pasajeros de 86 posibles
+ - Sao Paulo, Brasil  (GRU): 67.92% de utilidad en 1 vuelos. 72 pasajeros de 106 posibles
+ - Nueva York (JFK): 66.10% de utilidad en 4 vuelos. 193 pasajeros de 292 posibles
+ - Hong Kong, China  (HKG): 62.07% de utilidad en 2 vuelos. 108 pasajeros de 174 posibles
+ - Londres   (LHR): 60.00% de utilidad en 1 vuelos. 12 pasajeros de 20 posibles
+ - Detroit (DTW): 58.42% de utilidad en 3 vuelos. 111 pasajeros de 190 posibles
+ - Yakarta, Indonesia (CGK): 58.11% de utilidad en 2 vuelos. 43 pasajeros de 74 posibles
+ - Beijing (PEK): 56.50% de utilidad en 4 vuelos. 139 pasajeros de 246 posibles
+ - Barcelona, España (BCN): 55.33% de utilidad en 4 vuelos. 218 pasajeros de 394 posibles
+ - Rome, Italia  (FCO): 55.22% de utilidad en 2 vuelos. 127 pasajeros de 230 posibles
+ - Denver (DEN): 54.17% de utilidad en 1 vuelos. 39 pasajeros de 72 posibles
+ - Philadelphia, EUA   (PHL): 53.83% de utilidad en 5 vuelos. 365 pasajeros de 678 posibles
+ - Chicago (ORD): 53.33% de utilidad en 1 vuelos. 16 pasajeros de 30 posibles
+ - Frankfurt (FRA): 53.06% de utilidad en 1 vuelos. 52 pasajeros de 98 posibles
+ - Houston, EUA  (IAH): 51.25% de utilidad en 2 vuelos. 41 pasajeros de 80 posibles
+ - Paris  (CDG): 45.71% de utilidad en 1 vuelos. 64 pasajeros de 140 posibles
+ - Seattle  (SEA): 43.23% de utilidad en 3 vuelos. 115 pasajeros de 266 posibles
+ - Atlanta  (ATL): 38.73% de utilidad en 1 vuelos. 55 pasajeros de 142 posibles
+ - Taipéi, Taiwan (TPE): 37.05% de utilidad en 4 vuelos. 123 pasajeros de 332 posibles
+ - Londres, Inglaterra  (LGW): 36.21% de utilidad en 2 vuelos. 42 pasajeros de 116 posibles
+ - Ámsterdam, Holanda  (AMS): 35.16% de utilidad en 3 vuelos. 90 pasajeros de 256 posibles
+ - Toronto, Canadá  (YYZ): 32.69% de utilidad en 1 vuelos. 34 pasajeros de 104 posibles
+ - Phoenix, EUA   (PHX): 30.51% de utilidad en 1 vuelos. 36 pasajeros de 118 posibles
+ - San Francisco (SFO): 29.66% de utilidad en 2 vuelos. 35 pasajeros de 118 posibles
+ - Mumbai, India BOM  (BOM): 28.69% de utilidad en 1 vuelos. 35 pasajeros de 122 posibles
+ - Minneapolis/ ST Paul (MSP): 20.10% de utilidad en 2 vuelos. 39 pasajeros de 194 posibles
+ - Dallas  (DFW): 16.81% de utilidad en 2 vuelos. 38 pasajeros de 226 posibles
+ - Miami, EUA  (MIA): 14.49% de utilidad en 2 vuelos. 40 pasajeros de 276 posibles
+ -=-=-=- 
+RYANAIR (FR) -60.52% de utilidad en 43 aeropuertos. 5540 pasajeros de 9154 posibles.
+ - Yakarta, Indonesia (CGK): 93.59% de utilidad en 1 vuelos. 73 pasajeros de 78 posibles
+ - Nueva Delhi, India  (DEL): 90.83% de utilidad en 1 vuelos. 109 pasajeros de 120 posibles
+ - Nueva York (JFK): 90.13% de utilidad en 1 vuelos. 137 pasajeros de 152 posibles
+ - Shenzhen, China (SZX): 90.00% de utilidad en 1 vuelos. 45 pasajeros de 50 posibles
+ - Ámsterdam, Holanda  (AMS): 89.58% de utilidad en 1 vuelos. 129 pasajeros de 144 posibles
+ - Newark (EWR): 88.37% de utilidad en 4 vuelos. 304 pasajeros de 344 posibles
+ - Toronto, Canadá  (YYZ): 85.29% de utilidad en 1 vuelos. 87 pasajeros de 102 posibles
+ - Manila, Filipinas  (MNL): 83.33% de utilidad en 2 vuelos. 95 pasajeros de 114 posibles
+ - Orlando, EUA   (MCO): 82.28% de utilidad en 3 vuelos. 209 pasajeros de 254 posibles
+ - Kuala Lumpur, Malasia   (KUL): 79.93% de utilidad en 5 vuelos. 227 pasajeros de 284 posibles
+ - Chengdu, China (CTU): 79.51% de utilidad en 1 vuelos. 97 pasajeros de 122 posibles
+ - Londres, Inglaterra  (LGW): 75.79% de utilidad en 3 vuelos. 191 pasajeros de 252 posibles
+ - Estambul, Turquía  (IST): 74.07% de utilidad en 3 vuelos. 160 pasajeros de 216 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 74.05% de utilidad en 4 vuelos. 351 pasajeros de 474 posibles
+ - Hong Kong, China  (HKG): 67.00% de utilidad en 4 vuelos. 398 pasajeros de 594 posibles
+ - Sao Paulo, Brasil  (GRU): 66.18% de utilidad en 2 vuelos. 180 pasajeros de 272 posibles
+ - Madrid, España (MAD): 66.18% de utilidad en 1 vuelos. 45 pasajeros de 68 posibles
+ - Frankfurt (FRA): 64.29% de utilidad en 3 vuelos. 81 pasajeros de 126 posibles
+ - Múnich, Alemania  (MUC): 63.33% de utilidad en 1 vuelos. 19 pasajeros de 30 posibles
+ - Atlanta  (ATL): 62.50% de utilidad en 1 vuelos. 15 pasajeros de 24 posibles
+ - Seattle  (SEA): 60.54% de utilidad en 5 vuelos. 178 pasajeros de 294 posibles
+ - Philadelphia, EUA   (PHL): 60.13% de utilidad en 1 vuelos. 95 pasajeros de 158 posibles
+ - Phoenix, EUA   (PHX): 59.67% de utilidad en 5 vuelos. 327 pasajeros de 548 posibles
+ - Houston, EUA  (IAH): 56.64% de utilidad en 3 vuelos. 145 pasajeros de 256 posibles
+ - Chicago (ORD): 55.72% de utilidad en 5 vuelos. 263 pasajeros de 472 posibles
+ - Barcelona, España (BCN): 53.85% de utilidad en 1 vuelos. 14 pasajeros de 26 posibles
+ - Shanghái, China   (PVG): 53.47% de utilidad en 1 vuelos. 77 pasajeros de 144 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 52.04% de utilidad en 7 vuelos. 255 pasajeros de 490 posibles
+ - San Francisco (SFO): 50.38% de utilidad en 4 vuelos. 133 pasajeros de 264 posibles
+ - Las Vegas (LAS): 50.00% de utilidad en 1 vuelos. 24 pasajeros de 48 posibles
+ - Detroit (DTW): 49.23% de utilidad en 4 vuelos. 192 pasajeros de 390 posibles
+ - Boston (BOS): 47.94% de utilidad en 3 vuelos. 93 pasajeros de 194 posibles
+ - Taipéi, Taiwan (TPE): 46.88% de utilidad en 1 vuelos. 30 pasajeros de 64 posibles
+ - Londres   (LHR): 46.50% de utilidad en 3 vuelos. 93 pasajeros de 200 posibles
+ - Denver (DEN): 46.45% de utilidad en 4 vuelos. 196 pasajeros de 422 posibles
+ - Paris  (CDG): 45.83% de utilidad en 2 vuelos. 33 pasajeros de 72 posibles
+ - Ciudad de México, México  (MEX): 45.38% de utilidad en 1 vuelos. 59 pasajeros de 130 posibles
+ - Dallas  (DFW): 43.62% de utilidad en 2 vuelos. 82 pasajeros de 188 posibles
+ - Mumbai, India BOM  (BOM): 40.56% de utilidad en 2 vuelos. 73 pasajeros de 180 posibles
+ - Charlotte, EUA  (CLT): 40.48% de utilidad en 2 vuelos. 68 pasajeros de 168 posibles
+ - Shanghái, China SHA  (SHA): 30.82% de utilidad en 3 vuelos. 90 pasajeros de 292 posibles
+ - Rome, Italia  (FCO): 21.94% de utilidad en 2 vuelos. 43 pasajeros de 196 posibles
+ - Los Ángeles  (LAX): 18.12% de utilidad en 1 vuelos. 25 pasajeros de 138 posibles
+ -=-=-=- 
+EASYJET (U2) -56.27% de utilidad en 45 aeropuertos. 6142 pasajeros de 10916 posibles.
+ - Londres   (LHR): 96.67% de utilidad en 1 vuelos. 116 pasajeros de 120 posibles
+ - Seattle  (SEA): 95.83% de utilidad en 1 vuelos. 92 pasajeros de 96 posibles
+ - Ciudad de México, México  (MEX): 86.84% de utilidad en 2 vuelos. 198 pasajeros de 228 posibles
+ - Nueva York (JFK): 86.68% de utilidad en 4 vuelos. 423 pasajeros de 488 posibles
+ - Madrid, España (MAD): 83.04% de utilidad en 2 vuelos. 191 pasajeros de 230 posibles
+ - Newark (EWR): 82.99% de utilidad en 3 vuelos. 322 pasajeros de 388 posibles
+ - Toronto, Canadá  (YYZ): 79.78% de utilidad en 3 vuelos. 284 pasajeros de 356 posibles
+ - Detroit (DTW): 78.95% de utilidad en 1 vuelos. 120 pasajeros de 152 posibles
+ - Shanghái, China SHA  (SHA): 78.85% de utilidad en 2 vuelos. 41 pasajeros de 52 posibles
+ - Barcelona, España (BCN): 76.19% de utilidad en 2 vuelos. 96 pasajeros de 126 posibles
+ - Boston (BOS): 73.48% de utilidad en 3 vuelos. 194 pasajeros de 264 posibles
+ - Beijing (PEK): 73.29% de utilidad en 2 vuelos. 107 pasajeros de 146 posibles
+ - Chengdu, China (CTU): 67.74% de utilidad en 2 vuelos. 126 pasajeros de 186 posibles
+ - Shenzhen, China (SZX): 66.26% de utilidad en 3 vuelos. 163 pasajeros de 246 posibles
+ - Taipéi, Taiwan (TPE): 65.00% de utilidad en 4 vuelos. 260 pasajeros de 400 posibles
+ - Melbourne, Australia (MEL): 64.81% de utilidad en 2 vuelos. 35 pasajeros de 54 posibles
+ - Manila, Filipinas  (MNL): 64.08% de utilidad en 5 vuelos. 223 pasajeros de 348 posibles
+ - Nueva Delhi, India  (DEL): 61.72% de utilidad en 3 vuelos. 158 pasajeros de 256 posibles
+ - Shanghái, China   (PVG): 61.13% de utilidad en 5 vuelos. 346 pasajeros de 566 posibles
+ - Phoenix, EUA   (PHX): 60.39% de utilidad en 2 vuelos. 93 pasajeros de 154 posibles
+ - Rome, Italia  (FCO): 57.27% de utilidad en 1 vuelos. 63 pasajeros de 110 posibles
+ - San Francisco (SFO): 56.67% de utilidad en 1 vuelos. 17 pasajeros de 30 posibles
+ - Paris, Francia  (ORY): 56.28% de utilidad en 4 vuelos. 215 pasajeros de 382 posibles
+ - Moscú, Rusia  (DME): 55.56% de utilidad en 1 vuelos. 20 pasajeros de 36 posibles
+ - Tokio (HND): 55.20% de utilidad en 3 vuelos. 191 pasajeros de 346 posibles
+ - Sao Paulo, Brasil  (GRU): 54.52% de utilidad en 3 vuelos. 193 pasajeros de 354 posibles
+ - Denver (DEN): 53.27% de utilidad en 3 vuelos. 114 pasajeros de 214 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 50.00% de utilidad en 4 vuelos. 133 pasajeros de 266 posibles
+ - Estambul, Turquía  (IST): 47.96% de utilidad en 6 vuelos. 377 pasajeros de 786 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 47.26% de utilidad en 2 vuelos. 69 pasajeros de 146 posibles
+ - Singapur (SIN): 45.70% de utilidad en 3 vuelos. 117 pasajeros de 256 posibles
+ - Paris  (CDG): 44.95% de utilidad en 5 vuelos. 196 pasajeros de 436 posibles
+ - Las Vegas (LAS): 42.67% de utilidad en 3 vuelos. 128 pasajeros de 300 posibles
+ - Frankfurt (FRA): 41.09% de utilidad en 2 vuelos. 106 pasajeros de 258 posibles
+ - Sídney, Australia  (SYD): 39.06% de utilidad en 1 vuelos. 50 pasajeros de 128 posibles
+ - Yakarta, Indonesia (CGK): 38.71% de utilidad en 2 vuelos. 24 pasajeros de 62 posibles
+ - Dallas  (DFW): 35.37% de utilidad en 4 vuelos. 145 pasajeros de 410 posibles
+ - Londres, Inglaterra  (LGW): 30.36% de utilidad en 3 vuelos. 68 pasajeros de 224 posibles
+ - Kuala Lumpur, Malasia   (KUL): 29.33% de utilidad en 2 vuelos. 44 pasajeros de 150 posibles
+ - Houston, EUA  (IAH): 28.91% de utilidad en 1 vuelos. 37 pasajeros de 128 posibles
+ - Mumbai, India BOM  (BOM): 26.74% de utilidad en 3 vuelos. 77 pasajeros de 288 posibles
+ - Tokio Narrita, Japón  (NRT): 26.62% de utilidad en 2 vuelos. 41 pasajeros de 154 posibles
+ - Los Ángeles  (LAX): 25.67% de utilidad en 3 vuelos. 96 pasajeros de 374 posibles
+ - Minneapolis/ ST Paul (MSP): 15.22% de utilidad en 1 vuelos. 14 pasajeros de 92 posibles
+ - Bangkok, Tailandia   (BKK): 14.62% de utilidad en 1 vuelos. 19 pasajeros de 130 posibles
+ -=-=-=- 
+CUBANA DE AVIACION (CU) -58.88% de utilidad en 44 aeropuertos. 4461 pasajeros de 7576 posibles.
+ - Manila, Filipinas  (MNL): 100.00% de utilidad en 1 vuelos. 20 pasajeros de 20 posibles
+ - Sídney, Australia  (SYD): 93.75% de utilidad en 1 vuelos. 15 pasajeros de 16 posibles
+ - Mumbai, India BOM  (BOM): 93.75% de utilidad en 1 vuelos. 30 pasajeros de 32 posibles
+ - Estambul, Turquía  (IST): 91.67% de utilidad en 1 vuelos. 22 pasajeros de 24 posibles
+ - Londres, Inglaterra  (LGW): 89.67% de utilidad en 2 vuelos. 165 pasajeros de 184 posibles
+ - Londres   (LHR): 85.71% de utilidad en 2 vuelos. 60 pasajeros de 70 posibles
+ - Shanghái, China   (PVG): 84.33% de utilidad en 2 vuelos. 113 pasajeros de 134 posibles
+ - Ciudad de México, México  (MEX): 84.27% de utilidad en 2 vuelos. 150 pasajeros de 178 posibles
+ - Chicago (ORD): 82.69% de utilidad en 1 vuelos. 86 pasajeros de 104 posibles
+ - Orlando, EUA   (MCO): 81.90% de utilidad en 3 vuelos. 190 pasajeros de 232 posibles
+ - Melbourne, Australia (MEL): 77.13% de utilidad en 2 vuelos. 145 pasajeros de 188 posibles
+ - Charlotte, EUA  (CLT): 73.17% de utilidad en 3 vuelos. 180 pasajeros de 246 posibles
+ - Miami, EUA  (MIA): 72.86% de utilidad en 2 vuelos. 51 pasajeros de 70 posibles
+ - Dallas  (DFW): 69.90% de utilidad en 3 vuelos. 144 pasajeros de 206 posibles
+ - Ámsterdam, Holanda  (AMS): 68.13% de utilidad en 2 vuelos. 109 pasajeros de 160 posibles
+ - Minneapolis/ ST Paul (MSP): 67.50% de utilidad en 2 vuelos. 135 pasajeros de 200 posibles
+ - Philadelphia, EUA   (PHL): 67.31% de utilidad en 1 vuelos. 70 pasajeros de 104 posibles
+ - Singapur (SIN): 66.28% de utilidad en 1 vuelos. 57 pasajeros de 86 posibles
+ - Seattle  (SEA): 66.15% de utilidad en 2 vuelos. 127 pasajeros de 192 posibles
+ - Tokio (HND): 65.71% de utilidad en 1 vuelos. 46 pasajeros de 70 posibles
+ - Paris, Francia  (ORY): 65.15% de utilidad en 2 vuelos. 172 pasajeros de 264 posibles
+ - Las Vegas (LAS): 64.20% de utilidad en 2 vuelos. 104 pasajeros de 162 posibles
+ - Hong Kong, China  (HKG): 62.50% de utilidad en 3 vuelos. 225 pasajeros de 360 posibles
+ - Tokio Narrita, Japón  (NRT): 61.35% de utilidad en 4 vuelos. 200 pasajeros de 326 posibles
+ - Newark (EWR): 58.73% de utilidad en 1 vuelos. 74 pasajeros de 126 posibles
+ - Boston (BOS): 57.61% de utilidad en 1 vuelos. 53 pasajeros de 92 posibles
+ - Atlanta  (ATL): 55.79% de utilidad en 4 vuelos. 183 pasajeros de 328 posibles
+ - Bangkok, Tailandia   (BKK): 55.69% de utilidad en 5 vuelos. 235 pasajeros de 422 posibles
+ - Toronto, Canadá  (YYZ): 53.85% de utilidad en 2 vuelos. 98 pasajeros de 182 posibles
+ - Phoenix, EUA   (PHX): 53.60% de utilidad en 2 vuelos. 134 pasajeros de 250 posibles
+ - Madrid, España (MAD): 53.17% de utilidad en 3 vuelos. 151 pasajeros de 284 posibles
+ - Rome, Italia  (FCO): 50.76% de utilidad en 1 vuelos. 67 pasajeros de 132 posibles
+ - San Francisco (SFO): 49.61% de utilidad en 2 vuelos. 128 pasajeros de 258 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 49.37% de utilidad en 1 vuelos. 78 pasajeros de 158 posibles
+ - Houston, EUA  (IAH): 46.69% de utilidad en 2 vuelos. 127 pasajeros de 272 posibles
+ - Shenzhen, China (SZX): 45.45% de utilidad en 2 vuelos. 60 pasajeros de 132 posibles
+ - Yakarta, Indonesia (CGK): 44.90% de utilidad en 1 vuelos. 44 pasajeros de 98 posibles
+ - Barcelona, España (BCN): 44.51% de utilidad en 3 vuelos. 81 pasajeros de 182 posibles
+ - Los Ángeles  (LAX): 36.75% de utilidad en 2 vuelos. 86 pasajeros de 234 posibles
+ - Nueva Delhi, India  (DEL): 35.58% de utilidad en 2 vuelos. 37 pasajeros de 104 posibles
+ - Shanghái, China SHA  (SHA): 35.56% de utilidad en 3 vuelos. 128 pasajeros de 360 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 31.67% de utilidad en 1 vuelos. 38 pasajeros de 120 posibles
+ - Kuala Lumpur, Malasia   (KUL): 29.09% de utilidad en 1 vuelos. 32 pasajeros de 110 posibles
+ - Moscú, Rusia  (DME): 10.58% de utilidad en 1 vuelos. 11 pasajeros de 104 posibles
+ -=-=-=- 
+DELTA AIRLINES (DL) -53.83% de utilidad en 45 aeropuertos. 4766 pasajeros de 8854 posibles.
+ - Shenzhen, China (SZX): 96.43% de utilidad en 1 vuelos. 54 pasajeros de 56 posibles
+ - Atlanta  (ATL): 95.59% de utilidad en 1 vuelos. 65 pasajeros de 68 posibles
+ - Estambul, Turquía  (IST): 93.10% de utilidad en 1 vuelos. 54 pasajeros de 58 posibles
+ - Frankfurt (FRA): 89.06% de utilidad en 2 vuelos. 114 pasajeros de 128 posibles
+ - Philadelphia, EUA   (PHL): 88.21% de utilidad en 2 vuelos. 187 pasajeros de 212 posibles
+ - Yakarta, Indonesia (CGK): 87.50% de utilidad en 1 vuelos. 56 pasajeros de 64 posibles
+ - Taipéi, Taiwan (TPE): 84.21% de utilidad en 1 vuelos. 64 pasajeros de 76 posibles
+ - Sídney, Australia  (SYD): 80.12% de utilidad en 2 vuelos. 133 pasajeros de 166 posibles
+ - Manila, Filipinas  (MNL): 79.76% de utilidad en 3 vuelos. 201 pasajeros de 252 posibles
+ - Chicago (ORD): 78.23% de utilidad en 2 vuelos. 97 pasajeros de 124 posibles
+ - Barcelona, España (BCN): 73.51% de utilidad en 3 vuelos. 222 pasajeros de 302 posibles
+ - Los Ángeles  (LAX): 66.46% de utilidad en 2 vuelos. 109 pasajeros de 164 posibles
+ - Paris  (CDG): 66.07% de utilidad en 1 vuelos. 37 pasajeros de 56 posibles
+ - Chengdu, China (CTU): 65.71% de utilidad en 1 vuelos. 46 pasajeros de 70 posibles
+ - Singapur (SIN): 64.43% de utilidad en 3 vuelos. 192 pasajeros de 298 posibles
+ - Beijing (PEK): 63.41% de utilidad en 6 vuelos. 350 pasajeros de 552 posibles
+ - Múnich, Alemania  (MUC): 61.11% de utilidad en 1 vuelos. 11 pasajeros de 18 posibles
+ - Tokio Narrita, Japón  (NRT): 59.85% de utilidad en 2 vuelos. 79 pasajeros de 132 posibles
+ - Sao Paulo, Brasil  (GRU): 59.82% de utilidad en 1 vuelos. 67 pasajeros de 112 posibles
+ - Las Vegas (LAS): 59.25% de utilidad en 3 vuelos. 173 pasajeros de 292 posibles
+ - Orlando, EUA   (MCO): 57.09% de utilidad en 3 vuelos. 161 pasajeros de 282 posibles
+ - Bangkok, Tailandia   (BKK): 56.34% de utilidad en 2 vuelos. 80 pasajeros de 142 posibles
+ - Hong Kong, China  (HKG): 55.99% de utilidad en 3 vuelos. 187 pasajeros de 334 posibles
+ - Londres, Inglaterra  (LGW): 54.86% de utilidad en 1 vuelos. 79 pasajeros de 144 posibles
+ - Shanghái, China SHA  (SHA): 54.38% de utilidad en 5 vuelos. 273 pasajeros de 502 posibles
+ - Dallas  (DFW): 53.33% de utilidad en 1 vuelos. 48 pasajeros de 90 posibles
+ - Phoenix, EUA   (PHX): 50.00% de utilidad en 1 vuelos. 24 pasajeros de 48 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 48.91% de utilidad en 2 vuelos. 90 pasajeros de 184 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 48.29% de utilidad en 3 vuelos. 141 pasajeros de 292 posibles
+ - Madrid, España (MAD): 47.64% de utilidad en 4 vuelos. 242 pasajeros de 508 posibles
+ - Shanghái, China   (PVG): 46.75% de utilidad en 1 vuelos. 72 pasajeros de 154 posibles
+ - Nueva York (JFK): 46.72% de utilidad en 2 vuelos. 114 pasajeros de 244 posibles
+ - San Francisco (SFO): 45.10% de utilidad en 3 vuelos. 92 pasajeros de 204 posibles
+ - Denver (DEN): 44.29% de utilidad en 4 vuelos. 124 pasajeros de 280 posibles
+ - Nueva Delhi, India  (DEL): 43.88% de utilidad en 3 vuelos. 86 pasajeros de 196 posibles
+ - Seattle  (SEA): 41.54% de utilidad en 2 vuelos. 54 pasajeros de 130 posibles
+ - Ámsterdam, Holanda  (AMS): 40.00% de utilidad en 1 vuelos. 20 pasajeros de 50 posibles
+ - Ciudad de México, México  (MEX): 37.76% de utilidad en 3 vuelos. 108 pasajeros de 286 posibles
+ - Mumbai, India BOM  (BOM): 37.39% de utilidad en 2 vuelos. 86 pasajeros de 230 posibles
+ - Detroit (DTW): 36.98% de utilidad en 4 vuelos. 125 pasajeros de 338 posibles
+ - Londres   (LHR): 30.36% de utilidad en 5 vuelos. 119 pasajeros de 392 posibles
+ - Melbourne, Australia (MEL): 26.62% de utilidad en 1 vuelos. 41 pasajeros de 154 posibles
+ - Newark (EWR): 26.56% de utilidad en 1 vuelos. 17 pasajeros de 64 posibles
+ - Houston, EUA  (IAH): 18.70% de utilidad en 2 vuelos. 49 pasajeros de 262 posibles
+ - Paris, Francia  (ORY): 15.97% de utilidad en 1 vuelos. 23 pasajeros de 144 posibles
+ -=-=-=- 
+LAN CHILE (LA) -52.19% de utilidad en 45 aeropuertos. 4471 pasajeros de 8566 posibles.
+ - Barcelona, España (BCN): 100.00% de utilidad en 1 vuelos. 20 pasajeros de 20 posibles
+ - Tokio Narrita, Japón  (NRT): 96.20% de utilidad en 1 vuelos. 152 pasajeros de 158 posibles
+ - Ámsterdam, Holanda  (AMS): 90.41% de utilidad en 1 vuelos. 132 pasajeros de 146 posibles
+ - Nueva Delhi, India  (DEL): 90.00% de utilidad en 1 vuelos. 27 pasajeros de 30 posibles
+ - Seattle  (SEA): 87.93% de utilidad en 1 vuelos. 51 pasajeros de 58 posibles
+ - Los Ángeles  (LAX): 86.88% de utilidad en 2 vuelos. 139 pasajeros de 160 posibles
+ - Bangkok, Tailandia   (BKK): 86.11% de utilidad en 1 vuelos. 62 pasajeros de 72 posibles
+ - Londres, Inglaterra  (LGW): 80.65% de utilidad en 1 vuelos. 100 pasajeros de 124 posibles
+ - Paris  (CDG): 78.99% de utilidad en 2 vuelos. 109 pasajeros de 138 posibles
+ - Orlando, EUA   (MCO): 78.05% de utilidad en 2 vuelos. 128 pasajeros de 164 posibles
+ - Hong Kong, China  (HKG): 77.78% de utilidad en 1 vuelos. 14 pasajeros de 18 posibles
+ - Dallas  (DFW): 75.93% de utilidad en 2 vuelos. 82 pasajeros de 108 posibles
+ - Minneapolis/ ST Paul (MSP): 68.78% de utilidad en 3 vuelos. 293 pasajeros de 426 posibles
+ - Chicago (ORD): 65.57% de utilidad en 4 vuelos. 139 pasajeros de 212 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 65.06% de utilidad en 2 vuelos. 108 pasajeros de 166 posibles
+ - Sídney, Australia  (SYD): 62.78% de utilidad en 2 vuelos. 167 pasajeros de 266 posibles
+ - Atlanta  (ATL): 62.59% de utilidad en 4 vuelos. 174 pasajeros de 278 posibles
+ - Mumbai, India BOM  (BOM): 62.16% de utilidad en 2 vuelos. 46 pasajeros de 74 posibles
+ - Madrid, España (MAD): 61.11% de utilidad en 2 vuelos. 121 pasajeros de 198 posibles
+ - Philadelphia, EUA   (PHL): 60.78% de utilidad en 2 vuelos. 141 pasajeros de 232 posibles
+ - Paris, Francia  (ORY): 59.66% de utilidad en 4 vuelos. 247 pasajeros de 414 posibles
+ - Shenzhen, China (SZX): 58.82% de utilidad en 2 vuelos. 120 pasajeros de 204 posibles
+ - Chengdu, China (CTU): 58.79% de utilidad en 2 vuelos. 107 pasajeros de 182 posibles
+ - Rome, Italia  (FCO): 56.67% de utilidad en 1 vuelos. 17 pasajeros de 30 posibles
+ - Ciudad de México, México  (MEX): 55.79% de utilidad en 4 vuelos. 135 pasajeros de 242 posibles
+ - Nueva York (JFK): 54.41% de utilidad en 2 vuelos. 111 pasajeros de 204 posibles
+ - Charlotte, EUA  (CLT): 52.08% de utilidad en 1 vuelos. 25 pasajeros de 48 posibles
+ - Newark (EWR): 51.63% de utilidad en 4 vuelos. 190 pasajeros de 368 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 50.67% de utilidad en 2 vuelos. 151 pasajeros de 298 posibles
+ - Denver (DEN): 49.36% de utilidad en 2 vuelos. 77 pasajeros de 156 posibles
+ - San Francisco (SFO): 44.79% de utilidad en 3 vuelos. 86 pasajeros de 192 posibles
+ - Toronto, Canadá  (YYZ): 44.53% de utilidad en 2 vuelos. 57 pasajeros de 128 posibles
+ - Moscú, Rusia  (DME): 42.61% de utilidad en 3 vuelos. 121 pasajeros de 284 posibles
+ - Londres   (LHR): 41.58% de utilidad en 3 vuelos. 158 pasajeros de 380 posibles
+ - Melbourne, Australia (MEL): 41.35% de utilidad en 1 vuelos. 43 pasajeros de 104 posibles
+ - Shanghái, China   (PVG): 40.00% de utilidad en 1 vuelos. 36 pasajeros de 90 posibles
+ - Manila, Filipinas  (MNL): 37.75% de utilidad en 3 vuelos. 77 pasajeros de 204 posibles
+ - Beijing (PEK): 34.85% de utilidad en 2 vuelos. 46 pasajeros de 132 posibles
+ - Shanghái, China SHA  (SHA): 30.95% de utilidad en 3 vuelos. 91 pasajeros de 294 posibles
+ - Houston, EUA  (IAH): 30.00% de utilidad en 3 vuelos. 117 pasajeros de 390 posibles
+ - Estambul, Turquía  (IST): 28.26% de utilidad en 1 vuelos. 39 pasajeros de 138 posibles
+ - Taipéi, Taiwan (TPE): 23.72% de utilidad en 2 vuelos. 37 pasajeros de 156 posibles
+ - Phoenix, EUA   (PHX): 21.45% de utilidad en 6 vuelos. 130 pasajeros de 606 posibles
+ - Sao Paulo, Brasil  (GRU): 18.45% de utilidad en 2 vuelos. 31 pasajeros de 168 posibles
+ - Kuala Lumpur, Malasia   (KUL): 16.04% de utilidad en 1 vuelos. 17 pasajeros de 106 posibles
+ -=-=-=- 
+LUFTHANSA  (LH) -56.44% de utilidad en 44 aeropuertos. 4563 pasajeros de 8084 posibles.
+ - Hong Kong, China  (HKG): 97.30% de utilidad en 1 vuelos. 72 pasajeros de 74 posibles
+ - Londres, Inglaterra  (LGW): 88.89% de utilidad en 2 vuelos. 128 pasajeros de 144 posibles
+ - Atlanta  (ATL): 88.46% de utilidad en 1 vuelos. 23 pasajeros de 26 posibles
+ - Las Vegas (LAS): 86.36% de utilidad en 1 vuelos. 19 pasajeros de 22 posibles
+ - Ciudad de México, México  (MEX): 86.02% de utilidad en 2 vuelos. 160 pasajeros de 186 posibles
+ - Madrid, España (MAD): 81.54% de utilidad en 2 vuelos. 106 pasajeros de 130 posibles
+ - Orlando, EUA   (MCO): 77.69% de utilidad en 1 vuelos. 101 pasajeros de 130 posibles
+ - Londres   (LHR): 76.00% de utilidad en 2 vuelos. 38 pasajeros de 50 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 74.44% de utilidad en 3 vuelos. 265 pasajeros de 356 posibles
+ - Phoenix, EUA   (PHX): 74.29% de utilidad en 2 vuelos. 52 pasajeros de 70 posibles
+ - Paris, Francia  (ORY): 73.21% de utilidad en 5 vuelos. 328 pasajeros de 448 posibles
+ - Tokio Narrita, Japón  (NRT): 73.19% de utilidad en 3 vuelos. 202 pasajeros de 276 posibles
+ - San Francisco (SFO): 66.88% de utilidad en 1 vuelos. 107 pasajeros de 160 posibles
+ - Tokio (HND): 64.56% de utilidad en 2 vuelos. 133 pasajeros de 206 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 62.50% de utilidad en 2 vuelos. 165 pasajeros de 264 posibles
+ - Shenzhen, China (SZX): 62.43% de utilidad en 3 vuelos. 236 pasajeros de 378 posibles
+ - Houston, EUA  (IAH): 60.00% de utilidad en 2 vuelos. 138 pasajeros de 230 posibles
+ - Melbourne, Australia (MEL): 60.00% de utilidad en 1 vuelos. 36 pasajeros de 60 posibles
+ - Nueva York (JFK): 59.46% de utilidad en 1 vuelos. 44 pasajeros de 74 posibles
+ - Sídney, Australia  (SYD): 58.04% de utilidad en 5 vuelos. 195 pasajeros de 336 posibles
+ - Shanghái, China SHA  (SHA): 57.14% de utilidad en 1 vuelos. 16 pasajeros de 28 posibles
+ - Rome, Italia  (FCO): 57.04% de utilidad en 2 vuelos. 81 pasajeros de 142 posibles
+ - Chengdu, China (CTU): 56.48% de utilidad en 2 vuelos. 122 pasajeros de 216 posibles
+ - Shanghái, China   (PVG): 56.15% de utilidad en 1 vuelos. 73 pasajeros de 130 posibles
+ - Barcelona, España (BCN): 56.15% de utilidad en 2 vuelos. 146 pasajeros de 260 posibles
+ - Nueva Delhi, India  (DEL): 55.50% de utilidad en 2 vuelos. 111 pasajeros de 200 posibles
+ - Manila, Filipinas  (MNL): 54.11% de utilidad en 1 vuelos. 79 pasajeros de 146 posibles
+ - Boston (BOS): 54.07% de utilidad en 5 vuelos. 239 pasajeros de 442 posibles
+ - Sao Paulo, Brasil  (GRU): 53.70% de utilidad en 2 vuelos. 29 pasajeros de 54 posibles
+ - Miami, EUA  (MIA): 48.54% de utilidad en 2 vuelos. 100 pasajeros de 206 posibles
+ - Múnich, Alemania  (MUC): 46.49% de utilidad en 1 vuelos. 53 pasajeros de 114 posibles
+ - Bangkok, Tailandia   (BKK): 46.35% de utilidad en 2 vuelos. 89 pasajeros de 192 posibles
+ - Denver (DEN): 45.69% de utilidad en 4 vuelos. 191 pasajeros de 418 posibles
+ - Detroit (DTW): 44.83% de utilidad en 1 vuelos. 26 pasajeros de 58 posibles
+ - Yakarta, Indonesia (CGK): 41.55% de utilidad en 2 vuelos. 59 pasajeros de 142 posibles
+ - Minneapolis/ ST Paul (MSP): 39.22% de utilidad en 2 vuelos. 40 pasajeros de 102 posibles
+ - Beijing (PEK): 38.86% de utilidad en 4 vuelos. 171 pasajeros de 440 posibles
+ - Chicago (ORD): 38.33% de utilidad en 1 vuelos. 23 pasajeros de 60 posibles
+ - Seattle  (SEA): 37.97% de utilidad en 3 vuelos. 120 pasajeros de 316 posibles
+ - Taipéi, Taiwan (TPE): 37.63% de utilidad en 2 vuelos. 70 pasajeros de 186 posibles
+ - Paris  (CDG): 36.94% de utilidad en 2 vuelos. 82 pasajeros de 222 posibles
+ - Ámsterdam, Holanda  (AMS): 36.05% de utilidad en 2 vuelos. 31 pasajeros de 86 posibles
+ - Kuala Lumpur, Malasia   (KUL): 31.58% de utilidad en 2 vuelos. 48 pasajeros de 152 posibles
+ - Estambul, Turquía  (IST): 10.53% de utilidad en 1 vuelos. 16 pasajeros de 152 posibles
+ -=-=-=- 
+VUELING AIRLINES (VY) -59.57% de utilidad en 38 aeropuertos. 4563 pasajeros de 7660 posibles.
+ - Houston, EUA  (IAH): 95.89% de utilidad en 1 vuelos. 140 pasajeros de 146 posibles
+ - Atlanta  (ATL): 94.29% de utilidad en 1 vuelos. 66 pasajeros de 70 posibles
+ - Los Ángeles  (LAX): 91.67% de utilidad en 1 vuelos. 22 pasajeros de 24 posibles
+ - Seattle  (SEA): 85.29% de utilidad en 2 vuelos. 174 pasajeros de 204 posibles
+ - Melbourne, Australia (MEL): 83.33% de utilidad en 1 vuelos. 15 pasajeros de 18 posibles
+ - Múnich, Alemania  (MUC): 82.79% de utilidad en 1 vuelos. 101 pasajeros de 122 posibles
+ - Phoenix, EUA   (PHX): 76.85% de utilidad en 3 vuelos. 229 pasajeros de 298 posibles
+ - Chengdu, China (CTU): 75.00% de utilidad en 3 vuelos. 159 pasajeros de 212 posibles
+ - Sídney, Australia  (SYD): 75.00% de utilidad en 3 vuelos. 162 pasajeros de 216 posibles
+ - Detroit (DTW): 74.21% de utilidad en 4 vuelos. 328 pasajeros de 442 posibles
+ - Ciudad de México, México  (MEX): 73.73% de utilidad en 3 vuelos. 87 pasajeros de 118 posibles
+ - Newark (EWR): 71.43% de utilidad en 3 vuelos. 180 pasajeros de 252 posibles
+ - Denver (DEN): 71.28% de utilidad en 2 vuelos. 67 pasajeros de 94 posibles
+ - Nueva York (JFK): 70.88% de utilidad en 3 vuelos. 275 pasajeros de 388 posibles
+ - Minneapolis/ ST Paul (MSP): 70.45% de utilidad en 5 vuelos. 372 pasajeros de 528 posibles
+ - San Francisco (SFO): 70.45% de utilidad en 1 vuelos. 31 pasajeros de 44 posibles
+ - Hong Kong, China  (HKG): 64.39% de utilidad en 1 vuelos. 85 pasajeros de 132 posibles
+ - Mumbai, India BOM  (BOM): 62.87% de utilidad en 3 vuelos. 171 pasajeros de 272 posibles
+ - Manila, Filipinas  (MNL): 61.31% de utilidad en 4 vuelos. 168 pasajeros de 274 posibles
+ - Londres   (LHR): 59.29% de utilidad en 2 vuelos. 83 pasajeros de 140 posibles
+ - Frankfurt (FRA): 54.55% de utilidad en 2 vuelos. 48 pasajeros de 88 posibles
+ - Shanghái, China   (PVG): 53.68% de utilidad en 1 vuelos. 73 pasajeros de 136 posibles
+ - Paris  (CDG): 53.20% de utilidad en 2 vuelos. 133 pasajeros de 250 posibles
+ - Taipéi, Taiwan (TPE): 53.00% de utilidad en 2 vuelos. 53 pasajeros de 100 posibles
+ - Philadelphia, EUA   (PHL): 52.75% de utilidad en 2 vuelos. 96 pasajeros de 182 posibles
+ - Barcelona, España (BCN): 51.56% de utilidad en 3 vuelos. 99 pasajeros de 192 posibles
+ - Shanghái, China SHA  (SHA): 51.09% de utilidad en 4 vuelos. 140 pasajeros de 274 posibles
+ - Yakarta, Indonesia (CGK): 50.37% de utilidad en 3 vuelos. 136 pasajeros de 270 posibles
+ - Toronto, Canadá  (YYZ): 46.58% de utilidad en 2 vuelos. 68 pasajeros de 146 posibles
+ - Chicago (ORD): 45.75% de utilidad en 3 vuelos. 97 pasajeros de 212 posibles
+ - Londres, Inglaterra  (LGW): 45.51% de utilidad en 2 vuelos. 81 pasajeros de 178 posibles
+ - Las Vegas (LAS): 45.21% de utilidad en 5 vuelos. 217 pasajeros de 480 posibles
+ - Dallas  (DFW): 44.04% de utilidad en 2 vuelos. 96 pasajeros de 218 posibles
+ - Miami, EUA  (MIA): 41.04% de utilidad en 3 vuelos. 110 pasajeros de 268 posibles
+ - Moscú, Rusia  (DME): 36.11% de utilidad en 1 vuelos. 39 pasajeros de 108 posibles
+ - Singapur (SIN): 32.90% de utilidad en 3 vuelos. 102 pasajeros de 310 posibles
+ - Madrid, España (MAD): 24.74% de utilidad en 2 vuelos. 48 pasajeros de 194 posibles
+ - Charlotte, EUA  (CLT): 20.00% de utilidad en 1 vuelos. 12 pasajeros de 60 posibles
+ -=-=-=- 
+BWIA BRITISH WEST INDIANS AIRWAYS (BW) -51.70% de utilidad en 41 aeropuertos. 3741 pasajeros de 7236 posibles.
+ - Los Ángeles  (LAX): 95.65% de utilidad en 1 vuelos. 88 pasajeros de 92 posibles
+ - Paris, Francia  (ORY): 95.00% de utilidad en 1 vuelos. 38 pasajeros de 40 posibles
+ - Mumbai, India BOM  (BOM): 88.97% de utilidad en 2 vuelos. 121 pasajeros de 136 posibles
+ - Beijing (PEK): 88.46% de utilidad en 1 vuelos. 115 pasajeros de 130 posibles
+ - Chengdu, China (CTU): 85.90% de utilidad en 3 vuelos. 268 pasajeros de 312 posibles
+ - Seattle  (SEA): 84.00% de utilidad en 2 vuelos. 168 pasajeros de 200 posibles
+ - Miami, EUA  (MIA): 81.13% de utilidad en 1 vuelos. 86 pasajeros de 106 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 77.21% de utilidad en 1 vuelos. 105 pasajeros de 136 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 75.60% de utilidad en 4 vuelos. 127 pasajeros de 168 posibles
+ - Manila, Filipinas  (MNL): 70.69% de utilidad en 1 vuelos. 41 pasajeros de 58 posibles
+ - Detroit (DTW): 70.67% de utilidad en 2 vuelos. 106 pasajeros de 150 posibles
+ - Hong Kong, China  (HKG): 64.29% de utilidad en 1 vuelos. 27 pasajeros de 42 posibles
+ - Barcelona, España (BCN): 61.14% de utilidad en 3 vuelos. 225 pasajeros de 368 posibles
+ - Chicago (ORD): 60.05% de utilidad en 4 vuelos. 257 pasajeros de 428 posibles
+ - Nueva Delhi, India  (DEL): 57.45% de utilidad en 1 vuelos. 54 pasajeros de 94 posibles
+ - Dallas  (DFW): 57.41% de utilidad en 1 vuelos. 31 pasajeros de 54 posibles
+ - Toronto, Canadá  (YYZ): 53.16% de utilidad en 1 vuelos. 84 pasajeros de 158 posibles
+ - Minneapolis/ ST Paul (MSP): 53.13% de utilidad en 3 vuelos. 102 pasajeros de 192 posibles
+ - Londres, Inglaterra  (LGW): 52.40% de utilidad en 2 vuelos. 131 pasajeros de 250 posibles
+ - Kuala Lumpur, Malasia   (KUL): 50.43% de utilidad en 5 vuelos. 233 pasajeros de 462 posibles
+ - Orlando, EUA   (MCO): 50.29% de utilidad en 3 vuelos. 175 pasajeros de 348 posibles
+ - Estambul, Turquía  (IST): 49.15% de utilidad en 1 vuelos. 58 pasajeros de 118 posibles
+ - Londres   (LHR): 49.10% de utilidad en 3 vuelos. 109 pasajeros de 222 posibles
+ - Boston (BOS): 47.58% de utilidad en 2 vuelos. 59 pasajeros de 124 posibles
+ - Shanghái, China   (PVG): 42.36% de utilidad en 1 vuelos. 61 pasajeros de 144 posibles
+ - Shenzhen, China (SZX): 42.31% de utilidad en 1 vuelos. 33 pasajeros de 78 posibles
+ - Newark (EWR): 42.07% de utilidad en 4 vuelos. 138 pasajeros de 328 posibles
+ - Tokio (HND): 41.67% de utilidad en 1 vuelos. 45 pasajeros de 108 posibles
+ - Philadelphia, EUA   (PHL): 39.52% de utilidad en 5 vuelos. 147 pasajeros de 372 posibles
+ - Houston, EUA  (IAH): 37.84% de utilidad en 2 vuelos. 56 pasajeros de 148 posibles
+ - Yakarta, Indonesia (CGK): 37.07% de utilidad en 3 vuelos. 43 pasajeros de 116 posibles
+ - Shanghái, China SHA  (SHA): 36.11% de utilidad en 1 vuelos. 13 pasajeros de 36 posibles
+ - Charlotte, EUA  (CLT): 35.64% de utilidad en 2 vuelos. 67 pasajeros de 188 posibles
+ - Ciudad de México, México  (MEX): 34.11% de utilidad en 3 vuelos. 88 pasajeros de 258 posibles
+ - Moscú, Rusia  (DME): 31.71% de utilidad en 2 vuelos. 78 pasajeros de 246 posibles
+ - Rome, Italia  (FCO): 23.75% de utilidad en 1 vuelos. 19 pasajeros de 80 posibles
+ - Phoenix, EUA   (PHX): 20.77% de utilidad en 1 vuelos. 27 pasajeros de 130 posibles
+ - Ámsterdam, Holanda  (AMS): 20.65% de utilidad en 1 vuelos. 19 pasajeros de 92 posibles
+ - Frankfurt (FRA): 20.16% de utilidad en 1 vuelos. 25 pasajeros de 124 posibles
+ - Atlanta  (ATL): 19.20% de utilidad en 2 vuelos. 48 pasajeros de 250 posibles
+ - Melbourne, Australia (MEL): 17.33% de utilidad en 1 vuelos. 26 pasajeros de 150 posibles
+ -=-=-=- 
+PAN AM (PA) -58.86% de utilidad en 49 aeropuertos. 5667 pasajeros de 9628 posibles.
+ - Dallas  (DFW): 100.00% de utilidad en 1 vuelos. 112 pasajeros de 112 posibles
+ - Sídney, Australia  (SYD): 97.50% de utilidad en 1 vuelos. 39 pasajeros de 40 posibles
+ - Ciudad de México, México  (MEX): 91.94% de utilidad en 1 vuelos. 114 pasajeros de 124 posibles
+ - Denver (DEN): 88.71% de utilidad en 1 vuelos. 55 pasajeros de 62 posibles
+ - Seattle  (SEA): 87.18% de utilidad en 1 vuelos. 136 pasajeros de 156 posibles
+ - Madrid, España (MAD): 86.54% de utilidad en 1 vuelos. 45 pasajeros de 52 posibles
+ - Los Ángeles  (LAX): 85.64% de utilidad en 4 vuelos. 334 pasajeros de 390 posibles
+ - Singapur (SIN): 85.16% de utilidad en 2 vuelos. 109 pasajeros de 128 posibles
+ - Detroit (DTW): 85.08% de utilidad en 3 vuelos. 211 pasajeros de 248 posibles
+ - Charlotte, EUA  (CLT): 84.93% de utilidad en 1 vuelos. 124 pasajeros de 146 posibles
+ - Mumbai, India BOM  (BOM): 83.55% de utilidad en 2 vuelos. 127 pasajeros de 152 posibles
+ - Beijing (PEK): 83.33% de utilidad en 1 vuelos. 35 pasajeros de 42 posibles
+ - Boston (BOS): 83.04% de utilidad en 2 vuelos. 93 pasajeros de 112 posibles
+ - Frankfurt (FRA): 82.29% de utilidad en 1 vuelos. 79 pasajeros de 96 posibles
+ - Nueva York (JFK): 81.25% de utilidad en 1 vuelos. 13 pasajeros de 16 posibles
+ - Phoenix, EUA   (PHX): 80.26% de utilidad en 1 vuelos. 61 pasajeros de 76 posibles
+ - Philadelphia, EUA   (PHL): 76.47% de utilidad en 1 vuelos. 104 pasajeros de 136 posibles
+ - Shanghái, China SHA  (SHA): 73.85% de utilidad en 6 vuelos. 353 pasajeros de 478 posibles
+ - Rome, Italia  (FCO): 73.48% de utilidad en 1 vuelos. 97 pasajeros de 132 posibles
+ - Ámsterdam, Holanda  (AMS): 72.06% de utilidad en 2 vuelos. 98 pasajeros de 136 posibles
+ - Paris, Francia  (ORY): 70.81% de utilidad en 3 vuelos. 211 pasajeros de 298 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 66.54% de utilidad en 2 vuelos. 169 pasajeros de 254 posibles
+ - Chengdu, China (CTU): 65.42% de utilidad en 2 vuelos. 157 pasajeros de 240 posibles
+ - Londres, Inglaterra  (LGW): 62.16% de utilidad en 1 vuelos. 92 pasajeros de 148 posibles
+ - San Francisco (SFO): 60.00% de utilidad en 5 vuelos. 300 pasajeros de 500 posibles
+ - Moscú, Rusia  (DME): 58.02% de utilidad en 3 vuelos. 123 pasajeros de 212 posibles
+ - Minneapolis/ ST Paul (MSP): 57.25% de utilidad en 2 vuelos. 79 pasajeros de 138 posibles
+ - Hong Kong, China  (HKG): 55.77% de utilidad en 3 vuelos. 116 pasajeros de 208 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 54.55% de utilidad en 5 vuelos. 264 pasajeros de 484 posibles
+ - Orlando, EUA   (MCO): 53.82% de utilidad en 3 vuelos. 141 pasajeros de 262 posibles
+ - Tokio (HND): 53.45% de utilidad en 2 vuelos. 93 pasajeros de 174 posibles
+ - Shenzhen, China (SZX): 53.29% de utilidad en 3 vuelos. 81 pasajeros de 152 posibles
+ - Chicago (ORD): 52.46% de utilidad en 5 vuelos. 213 pasajeros de 406 posibles
+ - Houston, EUA  (IAH): 51.90% de utilidad en 3 vuelos. 109 pasajeros de 210 posibles
+ - Manila, Filipinas  (MNL): 50.38% de utilidad en 2 vuelos. 133 pasajeros de 264 posibles
+ - Múnich, Alemania  (MUC): 45.05% de utilidad en 2 vuelos. 82 pasajeros de 182 posibles
+ - Paris  (CDG): 44.66% de utilidad en 7 vuelos. 326 pasajeros de 730 posibles
+ - Sao Paulo, Brasil  (GRU): 40.44% de utilidad en 1 vuelos. 55 pasajeros de 136 posibles
+ - Kuala Lumpur, Malasia   (KUL): 40.00% de utilidad en 2 vuelos. 80 pasajeros de 200 posibles
+ - Nueva Delhi, India  (DEL): 38.61% de utilidad en 2 vuelos. 78 pasajeros de 202 posibles
+ - Tokio Narrita, Japón  (NRT): 37.50% de utilidad en 2 vuelos. 81 pasajeros de 216 posibles
+ - Atlanta  (ATL): 36.56% de utilidad en 3 vuelos. 68 pasajeros de 186 posibles
+ - Miami, EUA  (MIA): 33.78% de utilidad en 1 vuelos. 25 pasajeros de 74 posibles
+ - Las Vegas (LAS): 33.61% de utilidad en 1 vuelos. 41 pasajeros de 122 posibles
+ - Londres   (LHR): 28.79% de utilidad en 1 vuelos. 19 pasajeros de 66 posibles
+ - Yakarta, Indonesia (CGK): 27.50% de utilidad en 1 vuelos. 11 pasajeros de 40 posibles
+ - Estambul, Turquía  (IST): 27.24% de utilidad en 3 vuelos. 85 pasajeros de 312 posibles
+ - Bangkok, Tailandia   (BKK): 27.13% de utilidad en 2 vuelos. 51 pasajeros de 188 posibles
+ - Toronto, Canadá  (YYZ): 23.68% de utilidad en 2 vuelos. 45 pasajeros de 190 posibles
+ -=-=-=- 
+KLM (KL) -55.22% de utilidad en 44 aeropuertos. 5070 pasajeros de 9182 posibles.
+ - Shanghái, China   (PVG): 89.67% de utilidad en 2 vuelos. 165 pasajeros de 184 posibles
+ - Ámsterdam, Holanda  (AMS): 88.89% de utilidad en 2 vuelos. 128 pasajeros de 144 posibles
+ - Hong Kong, China  (HKG): 86.92% de utilidad en 2 vuelos. 186 pasajeros de 214 posibles
+ - Las Vegas (LAS): 85.42% de utilidad en 1 vuelos. 41 pasajeros de 48 posibles
+ - Orlando, EUA   (MCO): 83.33% de utilidad en 1 vuelos. 15 pasajeros de 18 posibles
+ - Tokio Narrita, Japón  (NRT): 79.17% de utilidad en 2 vuelos. 190 pasajeros de 240 posibles
+ - Shanghái, China SHA  (SHA): 78.72% de utilidad en 4 vuelos. 222 pasajeros de 282 posibles
+ - Tokio (HND): 78.72% de utilidad en 3 vuelos. 296 pasajeros de 376 posibles
+ - Denver (DEN): 76.19% de utilidad en 1 vuelos. 32 pasajeros de 42 posibles
+ - Londres, Inglaterra  (LGW): 72.22% de utilidad en 3 vuelos. 156 pasajeros de 216 posibles
+ - Atlanta  (ATL): 71.62% de utilidad en 1 vuelos. 53 pasajeros de 74 posibles
+ - Beijing (PEK): 71.30% de utilidad en 2 vuelos. 154 pasajeros de 216 posibles
+ - Ciudad de México, México  (MEX): 68.66% de utilidad en 2 vuelos. 184 pasajeros de 268 posibles
+ - Kuala Lumpur, Malasia   (KUL): 66.67% de utilidad en 2 vuelos. 32 pasajeros de 48 posibles
+ - Nueva Delhi, India  (DEL): 65.19% de utilidad en 2 vuelos. 103 pasajeros de 158 posibles
+ - Singapur (SIN): 63.27% de utilidad en 2 vuelos. 62 pasajeros de 98 posibles
+ - Melbourne, Australia (MEL): 63.13% de utilidad en 2 vuelos. 101 pasajeros de 160 posibles
+ - Philadelphia, EUA   (PHL): 62.79% de utilidad en 3 vuelos. 216 pasajeros de 344 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 61.97% de utilidad en 2 vuelos. 88 pasajeros de 142 posibles
+ - Paris  (CDG): 61.79% de utilidad en 5 vuelos. 372 pasajeros de 602 posibles
+ - Miami, EUA  (MIA): 61.11% de utilidad en 1 vuelos. 77 pasajeros de 126 posibles
+ - Detroit (DTW): 60.78% de utilidad en 2 vuelos. 141 pasajeros de 232 posibles
+ - Toronto, Canadá  (YYZ): 58.68% de utilidad en 3 vuelos. 142 pasajeros de 242 posibles
+ - Barcelona, España (BCN): 56.85% de utilidad en 2 vuelos. 83 pasajeros de 146 posibles
+ - Los Ángeles  (LAX): 53.28% de utilidad en 2 vuelos. 65 pasajeros de 122 posibles
+ - Londres   (LHR): 48.66% de utilidad en 2 vuelos. 109 pasajeros de 224 posibles
+ - Moscú, Rusia  (DME): 47.85% de utilidad en 5 vuelos. 223 pasajeros de 466 posibles
+ - Manila, Filipinas  (MNL): 47.00% de utilidad en 5 vuelos. 219 pasajeros de 466 posibles
+ - Chengdu, China (CTU): 46.40% de utilidad en 4 vuelos. 219 pasajeros de 472 posibles
+ - Rome, Italia  (FCO): 45.83% de utilidad en 2 vuelos. 99 pasajeros de 216 posibles
+ - Seattle  (SEA): 45.62% de utilidad en 4 vuelos. 250 pasajeros de 548 posibles
+ - Yakarta, Indonesia (CGK): 45.45% de utilidad en 1 vuelos. 60 pasajeros de 132 posibles
+ - Sídney, Australia  (SYD): 42.21% de utilidad en 1 vuelos. 65 pasajeros de 154 posibles
+ - San Francisco (SFO): 42.19% de utilidad en 2 vuelos. 81 pasajeros de 192 posibles
+ - Shenzhen, China (SZX): 42.14% de utilidad en 2 vuelos. 59 pasajeros de 140 posibles
+ - Taipéi, Taiwan (TPE): 39.81% de utilidad en 4 vuelos. 129 pasajeros de 324 posibles
+ - Estambul, Turquía  (IST): 39.58% de utilidad en 1 vuelos. 19 pasajeros de 48 posibles
+ - Madrid, España (MAD): 34.06% de utilidad en 1 vuelos. 47 pasajeros de 138 posibles
+ - Frankfurt (FRA): 30.14% de utilidad en 2 vuelos. 44 pasajeros de 146 posibles
+ - Charlotte, EUA  (CLT): 22.81% de utilidad en 2 vuelos. 52 pasajeros de 228 posibles
+ - Paris, Francia  (ORY): 21.15% de utilidad en 1 vuelos. 11 pasajeros de 52 posibles
+ - Newark (EWR): 19.13% de utilidad en 3 vuelos. 57 pasajeros de 298 posibles
+ - Múnich, Alemania  (MUC): 13.64% de utilidad en 1 vuelos. 12 pasajeros de 88 posibles
+ - Dallas  (DFW): 10.19% de utilidad en 1 vuelos. 11 pasajeros de 108 posibles
+ -=-=-=- 
+ALITALIA (AZ) -55.35% de utilidad en 49 aeropuertos. 5414 pasajeros de 9782 posibles.
+ - Estambul, Turquía  (IST): 100.00% de utilidad en 1 vuelos. 74 pasajeros de 74 posibles
+ - Paris, Francia  (ORY): 93.33% de utilidad en 1 vuelos. 140 pasajeros de 150 posibles
+ - Melbourne, Australia (MEL): 87.88% de utilidad en 1 vuelos. 116 pasajeros de 132 posibles
+ - Beijing (PEK): 82.14% de utilidad en 2 vuelos. 138 pasajeros de 168 posibles
+ - Las Vegas (LAS): 80.80% de utilidad en 3 vuelos. 223 pasajeros de 276 posibles
+ - Denver (DEN): 80.56% de utilidad en 1 vuelos. 116 pasajeros de 144 posibles
+ - Shanghái, China   (PVG): 78.70% de utilidad en 1 vuelos. 85 pasajeros de 108 posibles
+ - Phoenix, EUA   (PHX): 71.94% de utilidad en 2 vuelos. 141 pasajeros de 196 posibles
+ - Ámsterdam, Holanda  (AMS): 71.63% de utilidad en 4 vuelos. 255 pasajeros de 356 posibles
+ - Tokio (HND): 70.67% de utilidad en 2 vuelos. 106 pasajeros de 150 posibles
+ - Yakarta, Indonesia (CGK): 68.18% de utilidad en 2 vuelos. 150 pasajeros de 220 posibles
+ - Singapur (SIN): 66.82% de utilidad en 6 vuelos. 449 pasajeros de 672 posibles
+ - Toronto, Canadá  (YYZ): 66.35% de utilidad en 1 vuelos. 69 pasajeros de 104 posibles
+ - Madrid, España (MAD): 65.38% de utilidad en 1 vuelos. 102 pasajeros de 156 posibles
+ - Dallas  (DFW): 65.22% de utilidad en 1 vuelos. 90 pasajeros de 138 posibles
+ - Moscú, Rusia  (DME): 64.55% de utilidad en 2 vuelos. 71 pasajeros de 110 posibles
+ - Chengdu, China (CTU): 64.29% de utilidad en 2 vuelos. 135 pasajeros de 210 posibles
+ - Manila, Filipinas  (MNL): 63.16% de utilidad en 1 vuelos. 24 pasajeros de 38 posibles
+ - Kuala Lumpur, Malasia   (KUL): 62.93% de utilidad en 2 vuelos. 73 pasajeros de 116 posibles
+ - Atlanta  (ATL): 62.58% de utilidad en 4 vuelos. 204 pasajeros de 326 posibles
+ - Nueva Delhi, India  (DEL): 62.50% de utilidad en 1 vuelos. 15 pasajeros de 24 posibles
+ - Múnich, Alemania  (MUC): 61.51% de utilidad en 3 vuelos. 171 pasajeros de 278 posibles
+ - Charlotte, EUA  (CLT): 61.36% de utilidad en 2 vuelos. 108 pasajeros de 176 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 59.76% de utilidad en 4 vuelos. 251 pasajeros de 420 posibles
+ - Nueva York (JFK): 59.30% de utilidad en 4 vuelos. 255 pasajeros de 430 posibles
+ - Detroit (DTW): 58.28% de utilidad en 3 vuelos. 190 pasajeros de 326 posibles
+ - Orlando, EUA   (MCO): 57.62% de utilidad en 3 vuelos. 121 pasajeros de 210 posibles
+ - Los Ángeles  (LAX): 56.44% de utilidad en 2 vuelos. 114 pasajeros de 202 posibles
+ - Sao Paulo, Brasil  (GRU): 54.84% de utilidad en 3 vuelos. 68 pasajeros de 124 posibles
+ - San Francisco (SFO): 54.52% de utilidad en 3 vuelos. 169 pasajeros de 310 posibles
+ - Sídney, Australia  (SYD): 52.79% de utilidad en 3 vuelos. 227 pasajeros de 430 posibles
+ - Seattle  (SEA): 52.22% de utilidad en 2 vuelos. 47 pasajeros de 90 posibles
+ - Minneapolis/ ST Paul (MSP): 48.04% de utilidad en 2 vuelos. 49 pasajeros de 102 posibles
+ - Londres   (LHR): 42.57% de utilidad en 2 vuelos. 126 pasajeros de 296 posibles
+ - Shenzhen, China (SZX): 42.41% de utilidad en 2 vuelos. 67 pasajeros de 158 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 39.39% de utilidad en 3 vuelos. 52 pasajeros de 132 posibles
+ - Chicago (ORD): 39.23% de utilidad en 1 vuelos. 51 pasajeros de 130 posibles
+ - Ciudad de México, México  (MEX): 38.95% de utilidad en 2 vuelos. 74 pasajeros de 190 posibles
+ - Hong Kong, China  (HKG): 36.00% de utilidad en 1 vuelos. 18 pasajeros de 50 posibles
+ - Paris  (CDG): 33.45% de utilidad en 2 vuelos. 93 pasajeros de 278 posibles
+ - Tokio Narrita, Japón  (NRT): 33.33% de utilidad en 2 vuelos. 52 pasajeros de 156 posibles
+ - Newark (EWR): 33.33% de utilidad en 1 vuelos. 32 pasajeros de 96 posibles
+ - Rome, Italia  (FCO): 32.84% de utilidad en 2 vuelos. 88 pasajeros de 268 posibles
+ - Boston (BOS): 31.67% de utilidad en 1 vuelos. 19 pasajeros de 60 posibles
+ - Shanghái, China SHA  (SHA): 26.44% de utilidad en 3 vuelos. 55 pasajeros de 208 posibles
+ - Frankfurt (FRA): 21.19% de utilidad en 1 vuelos. 25 pasajeros de 118 posibles
+ - Taipéi, Taiwan (TPE): 18.53% de utilidad en 2 vuelos. 43 pasajeros de 232 posibles
+ - Miami, EUA  (MIA): 16.91% de utilidad en 2 vuelos. 46 pasajeros de 272 posibles
+ - Mumbai, India BOM  (BOM): 15.70% de utilidad en 2 vuelos. 27 pasajeros de 172 posibles
+ -=-=-=- 
+AVIANCA (AV) -55.25% de utilidad en 46 aeropuertos. 5084 pasajeros de 9202 posibles.
+ - Shanghái, China SHA  (SHA): 96.15% de utilidad en 1 vuelos. 75 pasajeros de 78 posibles
+ - Sídney, Australia  (SYD): 88.89% de utilidad en 1 vuelos. 96 pasajeros de 108 posibles
+ - Paris  (CDG): 88.62% de utilidad en 3 vuelos. 296 pasajeros de 334 posibles
+ - Houston, EUA  (IAH): 77.63% de utilidad en 2 vuelos. 59 pasajeros de 76 posibles
+ - Seattle  (SEA): 74.38% de utilidad en 1 vuelos. 119 pasajeros de 160 posibles
+ - Frankfurt (FRA): 74.22% de utilidad en 3 vuelos. 95 pasajeros de 128 posibles
+ - Ámsterdam, Holanda  (AMS): 72.37% de utilidad en 1 vuelos. 55 pasajeros de 76 posibles
+ - Múnich, Alemania  (MUC): 71.51% de utilidad en 3 vuelos. 123 pasajeros de 172 posibles
+ - Toronto, Canadá  (YYZ): 69.64% de utilidad en 1 vuelos. 39 pasajeros de 56 posibles
+ - Boston (BOS): 68.94% de utilidad en 2 vuelos. 91 pasajeros de 132 posibles
+ - Yakarta, Indonesia (CGK): 68.93% de utilidad en 4 vuelos. 244 pasajeros de 354 posibles
+ - Beijing (PEK): 68.81% de utilidad en 2 vuelos. 150 pasajeros de 218 posibles
+ - Charlotte, EUA  (CLT): 63.85% de utilidad en 5 vuelos. 438 pasajeros de 686 posibles
+ - Tokio (HND): 63.79% de utilidad en 2 vuelos. 37 pasajeros de 58 posibles
+ - Shenzhen, China (SZX): 63.17% de utilidad en 4 vuelos. 211 pasajeros de 334 posibles
+ - Denver (DEN): 62.27% de utilidad en 5 vuelos. 269 pasajeros de 432 posibles
+ - Las Vegas (LAS): 62.12% de utilidad en 1 vuelos. 41 pasajeros de 66 posibles
+ - Detroit (DTW): 61.63% de utilidad en 2 vuelos. 106 pasajeros de 172 posibles
+ - Estambul, Turquía  (IST): 61.25% de utilidad en 4 vuelos. 343 pasajeros de 560 posibles
+ - Manila, Filipinas  (MNL): 57.80% de utilidad en 3 vuelos. 200 pasajeros de 346 posibles
+ - Nueva York (JFK): 56.40% de utilidad en 3 vuelos. 185 pasajeros de 328 posibles
+ - Paris, Francia  (ORY): 53.95% de utilidad en 5 vuelos. 164 pasajeros de 304 posibles
+ - Newark (EWR): 53.85% de utilidad en 1 vuelos. 14 pasajeros de 26 posibles
+ - Barcelona, España (BCN): 52.21% de utilidad en 1 vuelos. 71 pasajeros de 136 posibles
+ - Ciudad de México, México  (MEX): 50.00% de utilidad en 1 vuelos. 50 pasajeros de 100 posibles
+ - Orlando, EUA   (MCO): 49.36% de utilidad en 2 vuelos. 77 pasajeros de 156 posibles
+ - Taipéi, Taiwan (TPE): 49.03% de utilidad en 3 vuelos. 101 pasajeros de 206 posibles
+ - Hong Kong, China  (HKG): 48.57% de utilidad en 2 vuelos. 68 pasajeros de 140 posibles
+ - Dallas  (DFW): 48.30% de utilidad en 4 vuelos. 199 pasajeros de 412 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 47.79% de utilidad en 1 vuelos. 65 pasajeros de 136 posibles
+ - San Francisco (SFO): 47.67% de utilidad en 2 vuelos. 82 pasajeros de 172 posibles
+ - Sao Paulo, Brasil  (GRU): 45.71% de utilidad en 1 vuelos. 64 pasajeros de 140 posibles
+ - Minneapolis/ ST Paul (MSP): 43.20% de utilidad en 4 vuelos. 127 pasajeros de 294 posibles
+ - Chengdu, China (CTU): 42.31% de utilidad en 1 vuelos. 11 pasajeros de 26 posibles
+ - Chicago (ORD): 42.31% de utilidad en 1 vuelos. 22 pasajeros de 52 posibles
+ - Mumbai, India BOM  (BOM): 41.18% de utilidad en 2 vuelos. 70 pasajeros de 170 posibles
+ - Singapur (SIN): 41.07% de utilidad en 1 vuelos. 23 pasajeros de 56 posibles
+ - Melbourne, Australia (MEL): 38.64% de utilidad en 1 vuelos. 34 pasajeros de 88 posibles
+ - Los Ángeles  (LAX): 38.00% de utilidad en 3 vuelos. 57 pasajeros de 150 posibles
+ - Atlanta  (ATL): 37.55% de utilidad en 4 vuelos. 187 pasajeros de 498 posibles
+ - Madrid, España (MAD): 37.50% de utilidad en 1 vuelos. 12 pasajeros de 32 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 37.10% de utilidad en 1 vuelos. 46 pasajeros de 124 posibles
+ - Londres   (LHR): 33.33% de utilidad en 2 vuelos. 66 pasajeros de 198 posibles
+ - Moscú, Rusia  (DME): 32.25% de utilidad en 2 vuelos. 89 pasajeros de 276 posibles
+ - Phoenix, EUA   (PHX): 26.19% de utilidad en 1 vuelos. 33 pasajeros de 126 posibles
+ - Miami, EUA  (MIA): 25.81% de utilidad en 3 vuelos. 80 pasajeros de 310 posibles
+ -=-=-=- 
+AEROLINEAS ARGENTINAS (AR) -56.71% de utilidad en 47 aeropuertos. 5115 pasajeros de 9020 posibles.
+ - Estambul, Turquía  (IST): 97.62% de utilidad en 1 vuelos. 123 pasajeros de 126 posibles
+ - Detroit (DTW): 95.76% de utilidad en 2 vuelos. 113 pasajeros de 118 posibles
+ - Atlanta  (ATL): 92.62% de utilidad en 1 vuelos. 113 pasajeros de 122 posibles
+ - Singapur (SIN): 88.89% de utilidad en 2 vuelos. 32 pasajeros de 36 posibles
+ - Shenzhen, China (SZX): 87.80% de utilidad en 2 vuelos. 223 pasajeros de 254 posibles
+ - Frankfurt (FRA): 85.12% de utilidad en 2 vuelos. 143 pasajeros de 168 posibles
+ - Chengdu, China (CTU): 83.33% de utilidad en 2 vuelos. 120 pasajeros de 144 posibles
+ - Rome, Italia  (FCO): 81.06% de utilidad en 2 vuelos. 107 pasajeros de 132 posibles
+ - Chicago (ORD): 80.31% de utilidad en 3 vuelos. 204 pasajeros de 254 posibles
+ - Barcelona, España (BCN): 78.67% de utilidad en 2 vuelos. 118 pasajeros de 150 posibles
+ - Denver (DEN): 75.49% de utilidad en 3 vuelos. 77 pasajeros de 102 posibles
+ - Boston (BOS): 74.46% de utilidad en 4 vuelos. 137 pasajeros de 184 posibles
+ - Miami, EUA  (MIA): 73.58% de utilidad en 4 vuelos. 156 pasajeros de 212 posibles
+ - Madrid, España (MAD): 72.79% de utilidad en 2 vuelos. 99 pasajeros de 136 posibles
+ - Tokio (HND): 71.43% de utilidad en 1 vuelos. 40 pasajeros de 56 posibles
+ - Philadelphia, EUA   (PHL): 71.21% de utilidad en 1 vuelos. 47 pasajeros de 66 posibles
+ - Minneapolis/ ST Paul (MSP): 70.41% de utilidad en 1 vuelos. 69 pasajeros de 98 posibles
+ - Kuala Lumpur, Malasia   (KUL): 69.65% de utilidad en 3 vuelos. 241 pasajeros de 346 posibles
+ - Sídney, Australia  (SYD): 68.64% de utilidad en 3 vuelos. 162 pasajeros de 236 posibles
+ - Paris  (CDG): 68.11% de utilidad en 4 vuelos. 267 pasajeros de 392 posibles
+ - Londres, Inglaterra  (LGW): 68.10% de utilidad en 2 vuelos. 79 pasajeros de 116 posibles
+ - Shanghái, China   (PVG): 67.31% de utilidad en 1 vuelos. 70 pasajeros de 104 posibles
+ - Nueva Delhi, India  (DEL): 64.13% de utilidad en 2 vuelos. 59 pasajeros de 92 posibles
+ - Los Ángeles  (LAX): 63.85% de utilidad en 2 vuelos. 166 pasajeros de 260 posibles
+ - Múnich, Alemania  (MUC): 62.20% de utilidad en 1 vuelos. 51 pasajeros de 82 posibles
+ - Ciudad de México, México  (MEX): 62.08% de utilidad en 3 vuelos. 149 pasajeros de 240 posibles
+ - Phoenix, EUA   (PHX): 61.62% de utilidad en 4 vuelos. 122 pasajeros de 198 posibles
+ - Moscú, Rusia  (DME): 58.91% de utilidad en 2 vuelos. 119 pasajeros de 202 posibles
+ - Tokio Narrita, Japón  (NRT): 58.62% de utilidad en 6 vuelos. 272 pasajeros de 464 posibles
+ - Yakarta, Indonesia (CGK): 57.95% de utilidad en 4 vuelos. 175 pasajeros de 302 posibles
+ - Dallas  (DFW): 56.36% de utilidad en 3 vuelos. 195 pasajeros de 346 posibles
+ - Shanghái, China SHA  (SHA): 50.00% de utilidad en 1 vuelos. 51 pasajeros de 102 posibles
+ - Charlotte, EUA  (CLT): 49.36% de utilidad en 2 vuelos. 77 pasajeros de 156 posibles
+ - Seúl Incheon, Corea del Sur  (ICN): 45.98% de utilidad en 2 vuelos. 80 pasajeros de 174 posibles
+ - Mumbai, India BOM  (BOM): 41.90% de utilidad en 3 vuelos. 119 pasajeros de 284 posibles
+ - Paris, Francia  (ORY): 40.85% de utilidad en 3 vuelos. 125 pasajeros de 306 posibles
+ - Dubái, Emiratos Árabes Unidos  (DXB): 40.14% de utilidad en 4 vuelos. 118 pasajeros de 294 posibles
+ - Londres   (LHR): 32.89% de utilidad en 2 vuelos. 75 pasajeros de 228 posibles
+ - Toronto, Canadá  (YYZ): 32.32% de utilidad en 2 vuelos. 53 pasajeros de 164 posibles
+ - Seattle  (SEA): 28.27% de utilidad en 3 vuelos. 95 pasajeros de 336 posibles
+ - Ámsterdam, Holanda  (AMS): 27.92% de utilidad en 2 vuelos. 67 pasajeros de 240 posibles
+ - Sao Paulo, Brasil  (GRU): 23.24% de utilidad en 2 vuelos. 66 pasajeros de 284 posibles
+ - San Francisco (SFO): 22.95% de utilidad en 2 vuelos. 28 pasajeros de 122 posibles
+ - Taipéi, Taiwan (TPE): 21.70% de utilidad en 1 vuelos. 23 pasajeros de 106 posibles
+ - Orlando, EUA   (MCO): 19.35% de utilidad en 1 vuelos. 24 pasajeros de 124 posibles
+ - Houston, EUA  (IAH): 18.30% de utilidad en 2 vuelos. 41 pasajeros de 224 posibles
+ - Beijing (PEK): 18.12% de utilidad en 2 vuelos. 25 pasajeros de 138 posibles
+ -=-=-=- 
