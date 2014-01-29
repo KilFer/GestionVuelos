@@ -1,0 +1,55 @@
+ATL Atlanta 
+PEK Beijing
+LHR Londres  
+ORD Chicago
+HND Tokio
+LAX Los Ángeles 
+CDG Paris 
+DFW Dallas 
+FRA Frankfurt
+HKG Hong Kong, China 
+CGK Yakarta, Indonesia
+DXB Dubái, Emiratos Árabes Unidos 
+DEN Denver
+BKK Bangkok, Tailandia  
+AMS Ámsterdam, Holanda 
+SIN Singapur
+JFK Nueva York
+MAD Madrid, España
+PVG Shanghái, China  
+SFO San Francisco
+LAS Las Vegas
+IST Estambul, Turquía 
+PHX Phoenix, EUA  
+IAH Houston, EUA 
+CLT Charlotte, EUA 
+MIA Miami, EUA 
+KUL Kuala Lumpur, Malasia  
+MUC Múnich, Alemania 
+FCO Rome, Italia 
+ICN Seúl Incheon, Corea del Sur 
+SYD Sídney, Australia 
+DEL Nueva Delhi, India 
+MCO Orlando, EUA  
+BCN Barcelona, España
+YYZ Toronto, Canadá 
+EWR Newark
+LGW Londres, Inglaterra 
+SHA Shanghái, China SHA 
+MSP Minneapolis/ ST Paul
+SEA Seattle 
+DTW Detroit
+GRU Sao Paulo, Brasil 
+MNL Manila, Filipinas 
+BOM Mumbai, India BOM 
+NRT Tokio Narrita, Japón 
+PHL Philadelphia, EUA  
+CTU Chengdu, China
+BOS Boston
+SZX Shenzhen, China
+MEL Melbourne, Australia
+MEX Ciudad de México, México 
+ORY Paris, Francia 
+DME Moscú, Rusia 
+TPE Taipéi, Taiwan
+AYT Antalya, Turquía
